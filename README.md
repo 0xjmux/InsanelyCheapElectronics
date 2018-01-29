@@ -12,7 +12,7 @@ This is a collaboration between:
   - [Networking related](#networking-related)
   - [Adapters](#adapters)
     
-# Antennas / WiFi Gear
+# Antennas / WiFi Gear / Networking
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Yagi Antenna  | Content Cell  | Content Cell  |     €0/$0    |
@@ -32,11 +32,6 @@ This is a collaboration between:
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
-# Networking related
-| Item Name | Item Description | Item link | Price |
-| ------------- | ------------- | ------------- | -------------|
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Adapters
 | Item Name | Item Description | Item link | Price |
