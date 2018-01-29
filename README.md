@@ -4,6 +4,13 @@ This repo is a work in progress. Me and a bunch of my discord friends on [Spaceh
 This is a collaboration between 
 ### (add your username here my dudes)
 
+## Table of Contents
+  - [Antennas / WiFi Gear](#antennas--wifi-gear)
+  - [Arduino Related](#arduino-related)
+  - [Mini PC / Raspberry Pi related](#mini-pc--raspberry-pi-related)
+  - [Networking related](#networking-related)
+  - [Adapters](#adapters)
+    
 # Antennas / WiFi Gear
 | Item Name | Item Description | Item link |
 | ------------- | ------------- | ------------- |
