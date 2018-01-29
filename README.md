@@ -32,25 +32,19 @@ This is a collaboration between:
 | Arduino Pro Micro   | Content Cell  | Content Cell  |     €0/$0    |
 | Arduino Nano  | Content Cell  | Content Cell  |     €0/$0    |
 
-# Mini PC / Raspberry Pi related
+# SBC's / Raspberry Pi related
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
-# SDR (Software Defined Radio)
+# RF / SDR (Software Defined Radio)
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | RTL-SDR  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Adapters
-| Item Name | Item Description | Item link | Price |
-| ------------- | ------------- | ------------- | -------------|
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
-
-# Miscellaneous
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
