@@ -16,14 +16,14 @@ This is a collaboration between:
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Yagi Antenna  | Content Cell  | Content Cell  |     €0/$0    |
-| Usb WiFi Adapter  | Content Cell  | Content Cell  |     €0/$0    |
-
+| USB to Ethernet  | Content Cell  | Content Cell  |     €0/$0    |
+| USB to Ethernet hub  | Content Cell  | Content Cell  |     €0/$0    |
    
 ## WiFi / ESP8266
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Node MCU  | Content Cell  | Content Cell  |     €0/$0    |
-
+| Usb WiFi Adapter  | Content Cell  | Content Cell  |     €0/$0    |
 
 ## Arduino Related
 | Item Name | Item Description | Item link | Price |
@@ -50,8 +50,7 @@ This is a collaboration between:
 | ------------- | ------------- | ------------- | -------------|
 | Micro HDMI to HDMI  | Content Cell  | Content Cell  |     €0/$0    |
 | Micro USB to USB  | Content Cell  | Content Cell  |     €0/$0    |
-| USB to Ethernet  | Content Cell  | Content Cell  |     €0/$0    |
-| USB to Ethernet hub  | Content Cell  | Content Cell  |     €0/$0    |
+
 | HDMI to VGA  | Content Cell  | Content Cell  |     €0/$0    |
 
 ## Miscellaneous
