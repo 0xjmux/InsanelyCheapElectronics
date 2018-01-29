@@ -12,20 +12,6 @@ All prices in Euro and USD.<br />
   - [Networking related](#networking-related)
   - [Adapters](#adapters)
     
-## Networking
-| Item Name | Item Description | Item link | Price |
-| ------------- | ------------- | ------------- | -------------|
-| Yagi Antenna  | Long Range directional WiFi Antenna  | [Link]()  |     €0/$0    |
-| USB to Ethernet  | USB to Ethenet adapter, great for connecting to a Raspberry Pi Zero  | [Link]()  |     €0/$0    |
-| USB to Ethernet hub  | Same as above, but with 3 USB ports added in  | [Link]()  |     €0/$0    |
-| Mini Router Hub  | Small router with two ethernet ports  | [Link]()  |     €0/$0    |
-   
-## WiFi / ESP8266
-| Item Name | Item Description | Item link | Price |
-| ------------- | ------------- | ------------- | -------------|
-| Node MCU  | Look at @Spacehuhn's deather project  | [Link]()  |     €0/$0    |
-| Usb WiFi Adapter  | Small USB adapter for wifi, injection cabable | [Link]()  |     €0/$0    |
-
 ## Arduino Related
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
@@ -34,18 +20,30 @@ All prices in Euro and USD.<br />
 | Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @Spacehuhn's arp poisioning project | [Link]()  |     €0/$0    |
 | Digispark  | Small arduino like platform, keyboard injection capable  | [Link]()  |     €0/$0    |
 
+## WiFi / ESP8266
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Node MCU  | Look at @Spacehuhn's deather project  | [Link]()  |     €0/$0    |
+| Usb WiFi Adapter  | Small USB adapter for wifi, injection cabable | [Link]()  |     €0/$0    |
 
-## Mini PC / Raspberry Pi related
+## SBC's / Raspberry Pi related
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Orange Pi Zero  | Mini PC, like pi zero, but with USB and Ethernet ports  | [Link]()  |     €0/$0    |
 | Raspberry Pi 3 Case  | Case for Pi 3. Self explanatory | [Link]()  |     €0/$0    |
 
-## SDR (Software Defined Radio)
+## Networking
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Yagi Antenna  | Long Range directional WiFi Antenna  | [Link]()  |     €0/$0    |
+| USB to Ethernet  | USB to Ethenet adapter, great for connecting to a Raspberry Pi Zero  | [Link]()  |     €0/$0    |
+| USB to Ethernet hub  | Same as above, but with 3 USB ports added in  | [Link]()  |     €0/$0    |
+| Mini Router Hub  | Small router with two ethernet ports  | [Link]()  |     €0/$0    |
+   
+## RF / SDR (Software Defined Radio)
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | RTL-SDR  | Allows you to recieve signals floating in the air around you and decode them in programs like gqrx  | [Link]()  |     €0/$0    |
-
 
 ## Adapters
 | Item Name | Item Description | Item link | Price |
@@ -53,7 +51,6 @@ All prices in Euro and USD.<br />
 | Micro HDMI to HDMI  | Adapter for Pi Zero  | [Link]()  |     €0/$0    |
 | Micro USB to USB  | Small adapters for Arduino Pro Micro  | [Link]()  |     €0/$0    |
 | HDMI to VGA  | For that old VGA monitor you have lying around | [Link]()  |     €0/$0    |
-
 
 ## Miscellaneous
 | Item Name | Item Description | Item link | Price |
