@@ -7,7 +7,7 @@ All prices in Euro and USD.<br />
 
 ## Table of Contents
   - [Arduino Related](#arduino-related)
-  - [ WiFi / ESP8266](#arduino-related)
+  - [ WiFi / ESP8266](#wifi--esp8266)
   - [SBC's / Raspberry Pi related](#sbcs--raspberry-pi-related)
   - [RF / SDR (Software Defined Radio)](#rf--sdr-software-defined-radio)
   - [Adapters](#adapters)
