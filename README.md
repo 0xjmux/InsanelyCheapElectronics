@@ -12,7 +12,7 @@ This is a collaboration between:
   - [Networking related](#networking-related)
   - [Adapters](#adapters)
     
-# Antennas / Networking
+# Networking
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Yagi Antenna  | Content Cell  | Content Cell  |     €0/$0    |
@@ -41,7 +41,7 @@ This is a collaboration between:
 # SDR (Software Defined Radio)
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+| RTL-SDR  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Adapters
