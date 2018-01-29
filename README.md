@@ -2,8 +2,8 @@
 
 This repo is a work in progress. Me and a bunch of my discord friends on [Spacehuhn's discord server](https://discordapp.com/invite/7Ay378G) all like to purchase cheap electronics from China for projects, so we figured it'd be good to make a list of stuff that we have bought for those that are just starting out and want ideas/parts for projects.<br />
 All prices in Euro and USD.<br />
-#### This is a collaboration between:
-@GarrukApex and @abdullahseba <!--(add your username here my dudes)-->
+This is a collaboration between:
+### (add your username here my dudes)
 
 ## Table of Contents
   - [Antennas / WiFi Gear](#antennas--wifi-gear)
@@ -33,6 +33,7 @@ All prices in Euro and USD.<br />
 | Arduino Nano  | For the Ethernet shield  | [Link]()  |     €0/$0    |
 | Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @Spacehuhn's arp poisioning project | [Link]()  |     €0/$0    |
 | Digispark  | Small arduino like platform, keyboard injection capable  | [Link]()  |     €0/$0    |
+| Arduino RFID Kit | Arduino compatible RFID read/write board (comes with free card and keyfob) | [Link](https://www.ebay.com/itm/MFRC-522-RC522-RFID-Module-IC-Card-Induction-Sensor-free-S50-card-key-chain-LW/182050283595?epid=1750668752&hash=item2a630ae04b:g:ROoAAOSwAuNW4b7u) | $2.10 |
 
 
 ## Mini PC / Raspberry Pi related
@@ -63,5 +64,5 @@ All prices in Euro and USD.<br />
 | USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link]()  |     €0/$0    |
 | Electronic Clock Soldering Kit  | Kit to help people learn how to solder.   | [Link]()  |     €0/$0    |
         
-<!--This is a template for adding extra cells. Ignore it. 
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |-->
+This is a template for adding extra cells. Ignore it. 
+| Content Cell  | Content Cell  | [Link]()  |     €0/$0    |
