@@ -6,11 +6,12 @@ All prices in Euro and USD.<br />
 @GarrukApex and @abdullahseba <!--(add your username here my dudes)-->
 
 ## Table of Contents
-  - [Antennas / WiFi Gear](#antennas--wifi-gear)
   - [Arduino Related](#arduino-related)
-  - [Mini PC / Raspberry Pi related](#mini-pc--raspberry-pi-related)
-  - [Networking related](#networking-related)
+  - [ WiFi / ESP8266](#arduino-related)
+  - [SBC's / Raspberry Pi related](#sbcs--raspberry-pi-related)
+  - [RF / SDR (Software Defined Radio)](#rf--sdr-software-defined-radio)
   - [Adapters](#adapters)
+  - [Miscellaneous](#miscellaneous)
     
 ## Arduino Related
 | Item Name | Item Description | Item link | Price |
