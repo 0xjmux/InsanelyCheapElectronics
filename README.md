@@ -2,8 +2,8 @@
 
 This repo is a work in progress. Me and a bunch of my discord friends on [Spacehuhn's discord server](https://discordapp.com/invite/7Ay378G) all like to purchase cheap electronics from China for projects, so we figured it'd be good to make a list of stuff that we have bought for those that are just starting out and want ideas/parts for projects.<br />
 All prices in Euro and USD.<br />
-This is a collaboration between:
-### (add your username here my dudes)
+#### This is a collaboration between:
+@GarrukApex and @abdullahseba <!--(add your username here my dudes)-->
 
 ## Table of Contents
   - [Antennas / WiFi Gear](#antennas--wifi-gear)
@@ -63,5 +63,5 @@ This is a collaboration between:
 | USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link]()  |     €0/$0    |
 | Electronic Clock Soldering Kit  | Kit to help people learn how to solder.   | [Link]()  |     €0/$0    |
         
-This is a template for adding extra cells. Ignore it. 
-| Content Cell  | Content Cell  | [Link]()  |     €0/$0    |
+<!--This is a template for adding extra cells. Ignore it. 
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |-->
