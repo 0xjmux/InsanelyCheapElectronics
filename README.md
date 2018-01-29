@@ -17,14 +17,13 @@ This is a collaboration between:
 | ------------- | ------------- | ------------- | -------------|
 | Yagi Antenna  | Content Cell  | Content Cell  |     €0/$0    |
 | Usb WiFi Adapter  | Content Cell  | Content Cell  |     €0/$0    |
-| Content  | Content Cell  | Content Cell  |     €0/$0    |
-| Content  | Content Cell  | Content Cell  |     €0/$0    |
+
    
 ## WiFi / ESP8266
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Node MCU  | Content Cell  | Content Cell  |     €0/$0    |
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+
 
 ## Arduino Related
 | Item Name | Item Description | Item link | Price |
@@ -32,6 +31,7 @@ This is a collaboration between:
 | Arduino Pro Micro   | Content Cell  | Content Cell  |     €0/$0    |
 | Arduino Nano  | Content Cell  | Content Cell  |     €0/$0    |
 | Digispark  | Content Cell  | Content Cell  |     €0/$0    |
+| Arduino Nano Ethernet Shield  | Content Cell  | Content Cell  |     €0/$0    |
 
 ## Mini PC / Raspberry Pi related
 | Item Name | Item Description | Item link | Price |
@@ -43,7 +43,7 @@ This is a collaboration between:
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | RTL-SDR  | Content Cell  | Content Cell  |     €0/$0    |
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+
 
 ## Adapters
 | Item Name | Item Description | Item link | Price |
@@ -65,7 +65,6 @@ This is a collaboration between:
 | ------------- | ------------- | ------------- | -------------|
 | 5V Relay  | Content Cell  | Content Cell  |     €0/$0    |
 | RFID Module  | Content Cell  | Content Cell  |     €0/$0    |
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
-
-
+        
+This is a template for adding extra cells. Ignore it. 
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
