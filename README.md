@@ -20,6 +20,7 @@ All prices in Euro and USD.<br />
 | Arduino Nano  | For the Ethernet shield  | [Link]()  |     €0/$0    |
 | Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @Spacehuhn's arp poisioning project | [Link]()  |     €0/$0    |
 | Digispark  | Small arduino like platform, keyboard injection capable  | [Link]()  |     €0/$0    |
+| Arduino RFID Kit | Arduino compatible RFID read/write board (comes with free card and keyfob) | [Link](https://www.ebay.com/itm/MFRC-522-RC522-RFID-Module-IC-Card-Induction-Sensor-free-S50-card-key-chain-LW/182050283595?epid=1750668752&hash=item2a630ae04b:g:ROoAAOSwAuNW4b7u) | $2.10 |
 
 ## WiFi / ESP8266
 | Item Name | Item Description | Item link | Price |
