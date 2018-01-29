@@ -50,7 +50,6 @@ This is a collaboration between:
 | ------------- | ------------- | ------------- | -------------|
 | Micro HDMI to HDMI  | Content Cell  | Content Cell  |     €0/$0    |
 | Micro USB to USB  | Content Cell  | Content Cell  |     €0/$0    |
-
 | HDMI to VGA  | Content Cell  | Content Cell  |     €0/$0    |
 
 ## Miscellaneous
