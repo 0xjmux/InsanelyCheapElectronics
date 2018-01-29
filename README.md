@@ -12,19 +12,25 @@ This is a collaboration between:
   - [Networking related](#networking-related)
   - [Adapters](#adapters)
     
-# Antennas / WiFi Gear / Networking
+# Antennas Networking
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Yagi Antenna  | Content Cell  | Content Cell  |     €0/$0    |
 | Usb WiFi Adapter  | Content Cell  | Content Cell  |     €0/$0    |
 | Node MCU  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cop  | Content Cell  | Content Cell  |     €0/$0    |
+   
+# WiFi / ESP8266
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Arduino Related
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Arduino Pro Micro   | Content Cell  | Content Cell  |     €0/$0    |
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+| Arduino Nano  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Mini PC / Raspberry Pi related
 | Item Name | Item Description | Item link | Price |
