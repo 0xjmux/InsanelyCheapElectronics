@@ -1,7 +1,8 @@
 # Electronics from China
 
-This repo is a work in progress. Me and a bunch of my discord friends on [Spacehuhn's discord server](https://discordapp.com/invite/7Ay378G) all like to purchase cheap electronics from China for projects, so we figured it'd be good to make a list of stuff that we have bought for those that are just starting out and want ideas/parts for projects.
-This is a collaboration between 
+This repo is a work in progress. Me and a bunch of my discord friends on [Spacehuhn's discord server](https://discordapp.com/invite/7Ay378G) all like to purchase cheap electronics from China for projects, so we figured it'd be good to make a list of stuff that we have bought for those that are just starting out and want ideas/parts for projects.<br />
+All prices in Euro and USD.<br />
+This is a collaboration between:
 ### (add your username here my dudes)
 
 ## Table of Contents
@@ -12,33 +13,33 @@ This is a collaboration between
   - [Adapters](#adapters)
     
 # Antennas / WiFi Gear
-| Item Name | Item Description | Item link |
-| ------------- | ------------- | ------------- |
-| Yagi Antenna  | Content Cell  | Content Cell  |
-| Usb WiFi Adapter  | Content Cell  | Content Cell  |
-| Node MCU  | Content Cell  | Content Cell  |
-| Content Cop  | Content Cell  | Content Cell  |
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Yagi Antenna  | Content Cell  | Content Cell  |     €0/$0    |
+| Usb WiFi Adapter  | Content Cell  | Content Cell  |     €0/$0    |
+| Node MCU  | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cop  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Arduino Related
-| Item Name | Item Description | Item link |
-| ------------- | ------------- | ------------- |
-| Arduino Pro Micro   | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Arduino Pro Micro   | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Mini PC / Raspberry Pi related
-| Item Name | Item Description | Item link |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Networking related
-| Item Name | Item Description | Item link |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
 # Adapters
-| Item Name | Item Description | Item link |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
