@@ -49,3 +49,9 @@ This is a collaboration between:
 | ------------- | ------------- | ------------- | -------------|
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+
+# Miscellaneous
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
