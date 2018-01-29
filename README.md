@@ -7,22 +7,30 @@ This is a collaboration between
 # Antennas / WiFi Gear
 | Item Name | Item Description | Item link |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Yagi Antenna  | Content Cell  | Content Cell  |
+| Usb WiFi Adapter  | Content Cell  | Content Cell  |
+| Node MCU  | Content Cell  | Content Cell  |
+| Content Cop  | Content Cell  | Content Cell  |
 
 # Arduino Related
 | Item Name | Item Description | Item link |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| Arduino Pro Micro   | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 
-# Mini Pc / Raspberry Pi related
+# Mini PC / Raspberry Pi related
 | Item Name | Item Description | Item link |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 
 # Networking related
+| Item Name | Item Description | Item link |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
+# Adapters
 | Item Name | Item Description | Item link |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
