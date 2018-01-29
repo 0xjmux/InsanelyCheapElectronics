@@ -11,14 +11,12 @@ This is a collaboration between:
   - [Mini PC / Raspberry Pi related](#mini-pc--raspberry-pi-related)
   - [Networking related](#networking-related)
   - [Adapters](#adapters)
-    
-# Networking
+
+# Arduino Related
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Yagi Antenna  | Content Cell  | Content Cell  |     €0/$0    |
-| Usb WiFi Adapter  | Content Cell  | Content Cell  |     €0/$0    |
-| Node MCU  | Content Cell  | Content Cell  |     €0/$0    |
-| Content Cop  | Content Cell  | Content Cell  |     €0/$0    |
+| Arduino Pro Micro   | Content Cell  | Content Cell  |     €0/$0    |
+| Arduino Nano  | Content Cell  | Content Cell  |     €0/$0    |    
    
 # WiFi / ESP8266
 | Item Name | Item Description | Item link | Price |
@@ -26,17 +24,26 @@ This is a collaboration between:
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
-# Arduino Related
-| Item Name | Item Description | Item link | Price |
-| ------------- | ------------- | ------------- | -------------|
-| Arduino Pro Micro   | Content Cell  | Content Cell  |     €0/$0    |
-| Arduino Nano  | Content Cell  | Content Cell  |     €0/$0    |
-
 # SBC's / Raspberry Pi related
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+
+# Networking
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Yagi Antenna  | Content Cell  | Content Cell  |     €0/$0    |
+| Usb WiFi Adapter  | Content Cell  | Content Cell  |     €0/$0    |
+| Node MCU  | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cop  | Content Cell  | Content Cell  |     €0/$0    |
+
+# Adapters
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
+
 
 # RF / SDR (Software Defined Radio)
 | Item Name | Item Description | Item link | Price |
@@ -44,8 +51,3 @@ This is a collaboration between:
 | RTL-SDR  | Content Cell  | Content Cell  |     €0/$0    |
 | Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
 
-# Adapters
-| Item Name | Item Description | Item link | Price |
-| ------------- | ------------- | ------------- | -------------|
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |
