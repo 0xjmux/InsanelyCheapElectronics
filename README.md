@@ -62,5 +62,10 @@ All prices in Euro and USD.<br />
 | USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link]()  |     €0/$0    |
 | Electronic Clock Soldering Kit  | Kit to help people learn how to solder.   | [Link]()  |     €0/$0    |
         
+## Switches 
+| Mushroom Switch  | Big Red button for your big red button needs  | Link]()  |     €0/$0    |
+| Key Switch  | Key switch for when you need to lock that circut  | Link]()  |     €0/$0    |
+| Simple Toggle  | Just a basic toggle.   | Link]()  |     €0/$0    |
+
 <!--This is a template for adding extra cells. Ignore it. 
-| Content Cell  | Content Cell  | Content Cell  |     €0/$0    |-->
+| Content Cell  | Content Cell  | Link]()  |     €0/$0    |-->
