@@ -63,6 +63,8 @@ All prices in Euro and USD.<br />
 | Electronic Clock Soldering Kit  | Kit to help people learn how to solder.   | [Link]()  |     €0/$0    |
         
 ## Switches 
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
 | Mushroom Switch  | Big Red button for your big red button needs  | Link]()  |     €0/$0    |
 | Key Switch  | Key switch for when you need to lock that circut  | Link]()  |     €0/$0    |
 | Simple Toggle  | Just a basic toggle.   | Link]()  |     €0/$0    |
