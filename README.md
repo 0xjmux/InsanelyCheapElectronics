@@ -65,9 +65,9 @@ All prices in Euro and USD.<br />
 ## Switches 
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Mushroom Switch  | Big Red button for your big red button needs  | Link]()  |     €0/$0    |
-| Key Switch  | Key switch for when you need to lock that circut  | Link]()  |     €0/$0    |
-| Simple Toggle  | Just a basic toggle.   | Link]()  |     €0/$0    |
+| Mushroom Switch  | Big Red button for your big red button needs  | [Link]()  |     €0/$0    |
+| Key Switch  | Key switch for when you need to lock that circut  | [Link]()  |     €0/$0    |
+| Simple Toggle  | Just a basic toggle.   | [Link]()  |     €0/$0    |
 
 <!--This is a template for adding extra cells. Ignore it. 
 | Content Cell  | Content Cell  | Link]()  |     €0/$0    |-->
