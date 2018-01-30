@@ -8,8 +8,8 @@ This page contains links to places wheere you can buy electronic tools and parts
   - [Information](#Information)
   - [Blogs and List](#Blogs-and-List)
 
-## Webshops
-This is a list with webshops that are interesting for cheap tools and parts.
+## Online Shops
+This is a list with online shops that are interesting for cheap tools and parts.
 
 - [Aliexpress](https://www.aliexpress.com/)
 - [Banggood](https://www.banggood.com/)
@@ -28,7 +28,7 @@ HAK5 is a great place for all kinds of hacking and pentesting tools.
 - [HAK5](https://www.hak5.org/)
 - [HAK5 forum](https://forums.hak5.org/)
 
-## BLogs and List
+## Blogs and Lists
 This is a list that shows intersting blogs and list of parts people have bought.
 
 - [BARGAIN basement part 1](https://www.thethingsnetwork.org/forum/t/the-bargain-basement-part-1/1697)
