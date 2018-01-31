@@ -59,16 +59,16 @@ All prices in Euro and USD.<br />
 | ------------- | ------------- | ------------- | -------------|
 | 5V Relay  | Connnect this to projects with a higher voltage   | [Link]()  |     €0/$0    |
 | RFID Module  | Allows you to read RFID tags, if you can get one that works  | [Link]()  |     €0/$0    |
-| Content Cell  | Content Cell  | Link]()  |     €0/$0    |
-| Content Cell  | Content Cell  | Link]()  |     €0/$0    |
-| Content Cell  | Content Cell  | Link]()  |     €0/$0    |
+| Content Cell  | Content Cell  | [Link]()  |     €0/$0    |
+| Content Cell  | Content Cell  | [Link]()  |     €0/$0    |
+| Content Cell  | Content Cell  | [Link]()  |     €0/$0    |
 
 ## Miscellaneous
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link]()  |     €0/$0    |
 | Electronic Clock Soldering Kit  | Kit to help people learn how to solder.   | [Link]()  |     €0/$0    |
-| Mini Pelican Case  | Mini shockproof case for storing items  | Link](https://www.aliexpress.com/item/Plastic-Storage-Box-Outdoor-Shockproof-Waterproof-Airtight-Survival-Storage-Case-Container-Carry-Box-new/32810926969.html?ws_ab_test=searchweb0_0,searchweb201602_4_10065_10344_10130_10068_10324_10547_10342_10325_10546_10343_10340_10548_10341_10545_10084_10083_10618_10615_10307_10313_10059_10534_100031_10103_441_10624_442_10623_10622_10621_10620_10142,searchweb201603_25,ppcSwitch_5&algo_expid=99ce1fb1-f619-4475-8c81-8a0797f715ca-3&algo_pvid=99ce1fb1-f619-4475-8c81-8a0797f715ca&priceBeautifyAB=3)  |     €0/$0    |
+| Mini Pelican Case  | Mini shockproof case for storing items  | [Link](https://www.aliexpress.com/item/Plastic-Storage-Box-Outdoor-Shockproof-Waterproof-Airtight-Survival-Storage-Case-Container-Carry-Box-new/32810926969.html?ws_ab_test=searchweb0_0,searchweb201602_4_10065_10344_10130_10068_10324_10547_10342_10325_10546_10343_10340_10548_10341_10545_10084_10083_10618_10615_10307_10313_10059_10534_100031_10103_441_10624_442_10623_10622_10621_10620_10142,searchweb201603_25,ppcSwitch_5&algo_expid=99ce1fb1-f619-4475-8c81-8a0797f715ca-3&algo_pvid=99ce1fb1-f619-4475-8c81-8a0797f715ca&priceBeautifyAB=3)  |     €0/$0    |
 
 ## Switches 
 | Item Name | Item Description | Item link | Price |
@@ -78,4 +78,4 @@ All prices in Euro and USD.<br />
 | Simple Toggle  | Just a basic toggle.   | [Link]()  |     €0/$0    |
 
 <!--This is a template for adding extra cells. Ignore it. 
-| Content Cell  | Content Cell  | Link]()  |     €0/$0    |-->
+| Content Cell  | Content Cell  | [Link]()  |     €0/$0    |-->
