@@ -51,8 +51,7 @@ All prices in Euro and USD.<br />
 ## Adapters
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Micro HDMI to HDMI  | Adapter for Pi Zero  | [Link](
-http://s.click.aliexpress.com/e/fMBI2nI)  |     €0/$1    |
+| Micro HDMI to HDMI  | Adapter for Pi Zero  | [Link](http://s.click.aliexpress.com/e/fMBI2nI)  |     €0/$1    |
 | Micro USB to USB  | Small adapters for Arduino Pro Micro  | [Link](http://s.click.aliexpress.com/e/uVZFQju)  |     €0/$0    |
 | HDMI to VGA  | For that old VGA monitor you have lying around | [Link](http://s.click.aliexpress.com/e/yvbe62F)  |     €0/$4.33    |
 
