@@ -37,8 +37,7 @@ All prices in Euro and USD.<br />
 ## Networking
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Yagi Antenna  | Long Range directional WiFi Antenna  | [Link](http://s.click.aliexpress.com/e/2VrBUbu
-)  |     €0/$0    |
+| Yagi Antenna  | Long Range directional WiFi Antenna  | [Link](http://s.click.aliexpress.com/e/2VrBUbu)  |     €0/$0    |
 | USB to Ethernet  | USB to Ethenet adapter, great for connecting to a Raspberry Pi Zero  | [Link](https://www.aliexpress.com/item/New-USB-2-0-Ethernet-10-100-Mbps-RJ45-Network-Card-Lan-Adapter-Adaptador-Drop-mShipping/32789454406.html)  |     €0/$0    |
 | USB to Ethernet hub  | Same as above, but with 3 USB ports added in  | [Link](http://s.click.aliexpress.com/e/vvnEE2J)  |     €0/$3.10    |
 | Mini Router Hub  | Small router with two ethernet ports  | [Link](https://www.aliexpress.com/item/Wifi-Router-NEXX-WT3020H-300Mbps-Portable-Mini-Router-802-11-b-g-nwifi-Repeater-Wifi-Bridge/32740552501.html)  |     €0/$0    |
