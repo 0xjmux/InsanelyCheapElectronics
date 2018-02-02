@@ -15,8 +15,8 @@ This is a list with online shops that are interesting for cheap tools and parts.
 - [Banggood](https://www.banggood.com/)
 - [Ebay](http://ebay.com/)
 
-### interesting and good aliexpress shops
-interesting shops with a big assortiment of parts and fast shipping times.
+### Interesting and good Aliexpress shops
+Interesting shops with a big assortment of parts and fast shipping times.
 - [Face Electronics Co., Ltd](https://www.aliexpress.com/store/1859567)
 - [Parity Supermarket electronic accessories](https://www.aliexpress.com/store/430356)
 
