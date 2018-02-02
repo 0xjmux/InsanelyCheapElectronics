@@ -3,7 +3,7 @@
 This repo is a work in progress. Me and a bunch of my discord friends on [Spacehuhn's discord server](https://discordapp.com/invite/7Ay378G) all like to purchase cheap electronics from China for projects, so we figured it'd be good to make a list of stuff that we have bought for those that are just starting out and want ideas/parts for projects.<br />
 All prices in Euro and USD.<br />
 #### This is a collaboration between:
- - [@GarrukApex](https://github.com/GarrukApex)
+ - [@ScriptKitteh](https://github.com/ScriptKitteh)
  - [@abdullahseba](https://github.com/abdullahseba)
  - [@digitaldisarray](https://github.com/digitaldisarray) <!-- :D -->
  - [@killergek](https://github.com/killergeek)
