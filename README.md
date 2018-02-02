@@ -30,19 +30,19 @@ All prices in Euro and USD.<br />
 ## WiFi / ESP8266
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Node MCU  | Look at @Spacehuhn's deather project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €0/$3.78    |
-| Usb WiFi Adapter  | Small USB adapter for wifi, injection cabable | [Link](https://www.aliexpress.com/item/Hot-Sale-Mini-PC-wifi-adapter-150M-USB-WiFi-antenna-Wireless-Computer-Network-Card-802-11n/32659894879.html)  |     €0/$0    |
+| Node MCU  | Look at @Spacehuhn's deather project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
+| Usb WiFi Adapter  | Small USB adapter for wifi, injection cabable | [Link](https://www.aliexpress.com/item/Hot-Sale-Mini-PC-wifi-adapter-150M-USB-WiFi-antenna-Wireless-Computer-Network-Card-802-11n/32659894879.html)  |     €1.47/$1.83    |
 
 ## SBC's / Raspberry Pi related
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Orange Pi Zero  | Mini PC, like pi zero, but with USB and Ethernet ports  | [Link](https://www.aliexpress.com/item/New-Orange-Pi-Zero-H2-Quad-Core-Open-source-development-board-beyond-Raspberry-Pi/32760774493.html)  |     €0/$0    |
-| Raspberry Pi 3 Case  | Case for Pi 3. Self explanatory | [Link](http://s.click.aliexpress.com/e/y3rzJmY)  |     €0/$1.67    |
+| Orange Pi Zero  | Mini PC, like pi zero, but with USB and Ethernet ports  | [Link](https://www.aliexpress.com/item/New-Orange-Pi-Zero-H2-Quad-Core-Open-source-development-board-beyond-Raspberry-Pi/32760774493.html)  |     €6.83/$8.49    |
+| Raspberry Pi 3 Case  | Case for Pi 3. Self explanatory | [Link](http://s.click.aliexpress.com/e/y3rzJmY)  |     €1.34/$1.67    |
 
 ## Networking
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Yagi Antenna  | Long Range directional WiFi Antenna  | [Link](http://s.click.aliexpress.com/e/2VrBUbu)  |     €0/$0    |
+| Yagi Antenna  | Long Range directional WiFi Antenna  | [Link](http://s.click.aliexpress.com/e/2VrBUbu)  |     €9.45/$11.75    |
 | USB to Ethernet  | USB to Ethenet adapter, great for connecting to a Raspberry Pi Zero  | [Link](https://www.aliexpress.com/item/New-USB-2-0-Ethernet-10-100-Mbps-RJ45-Network-Card-Lan-Adapter-Adaptador-Drop-mShipping/32789454406.html)  |     €0/$0    |
 | USB to Ethernet hub  | Same as above, but with 3 USB ports added in  | [Link](http://s.click.aliexpress.com/e/vvnEE2J)  |     €0/$3.10    |
 | Mini Router Hub  | Small router with two ethernet ports  | [Link](https://www.aliexpress.com/item/Wifi-Router-NEXX-WT3020H-300Mbps-Portable-Mini-Router-802-11-b-g-nwifi-Repeater-Wifi-Bridge/32740552501.html)  |     €0/$0    |
