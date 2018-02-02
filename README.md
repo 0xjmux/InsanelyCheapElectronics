@@ -6,7 +6,7 @@ All prices in Euro and USD.<br />
  - [@ScriptKitteh](https://github.com/ScriptKitteh)
  - [@abdullahseba](https://github.com/abdullahseba)
  - [@digitaldisarray](https://github.com/digitaldisarray) <!-- :D -->
- - [@killergek](https://github.com/killergeek)
+ - [@killergeek](https://github.com/killergeek)
 <!--(add your username here my dudes)-->
 
 ## Table of Contents
@@ -20,12 +20,13 @@ All prices in Euro and USD.<br />
 ## Arduino Related
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Arduino Pro Micro   | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link]()  |     €0/$0    |
+| Arduino Pro Micro 5V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/Free-Shipping-New-Pro-Micro-for-arduino-ATmega32U4-5V-16MHz-Module-with-2-row-pin-header/2021979132.html)  |     €3.47/$0    |
+| Arduino Pro Micro 3.3V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/2pcs-Leonardo-Pro-Micro-ATmega32U4-16MHz-3-3V-Replace-ATmega328-Pro-Mini/32661332411.html)  |     €5.28/$0    |
 | Arduino Nano  | For the Ethernet shield  | [Link](http://s.click.aliexpress.com/e/miYV7yJ)  |     €2.22/$2.75    |
-| Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @Spacehuhn's arp poisioning project | [Link](https://www.aliexpress.com/item/Mini-ENC28J60-Webserver-module-Ethernet-Shield-board-for-Arduino-Nano-v3-0/32648804850.html)  |     €0/$0    |
-| Digispark  | Small arduino like platform, keyboard injection capable  | [Link](https://www.aliexpress.com/item/1Pcs-lot-Digispark-Kickstarter-Common-Micro-USB-Development-Board-For-ATTINY85/32826241497.html)  |     €0/$0    |
+| Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @Spacehuhn's arp poisioning project | [Link](https://www.aliexpress.com/item/Mini-ENC28J60-Webserver-module-Ethernet-Shield-board-for-Arduino-Nano-v3-0/32648804850.html)  |     €3.37/$0    |
+| Digispark  | Small arduino like platform, keyboard injection capable  | [Link](https://www.aliexpress.com/item/1Pcs-lot-Digispark-Kickstarter-Common-Micro-USB-Development-Board-For-ATTINY85/32826241497.html)  |     €0.87/$0    |
 | Arduino RFID Kit | Arduino compatible RFID read/write board (comes with free card and keyfob) | [Link](https://www.ebay.com/itm/MFRC-522-RC522-RFID-Module-IC-Card-Induction-Sensor-free-S50-card-key-chain-LW/182050283595?epid=1750668752&hash=item2a630ae04b:g:ROoAAOSwAuNW4b7u) | €1.69/$2.10 |
-| GPS Adapter  | Arduino GPS module  | [Link](https://www.aliexpress.com/item/GY-NEO6MV2-NEO-6M-GPS-Module-NEO6MV2-with-Flight-Control-EEPROM-MWC-APM2-5-large-antenna/32807688440.html)  |     €0/$0    |
+| GPS Adapter  | Arduino GPS module  | [Link](https://www.aliexpress.com/item/GY-NEO6MV2-NEO-6M-GPS-Module-NEO6MV2-with-Flight-Control-EEPROM-MWC-APM2-5-large-antenna/32807688440.html)  |     €2.56/$0    |
 
 
 ## WiFi / ESP8266
@@ -44,15 +45,42 @@ All prices in Euro and USD.<br />
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Yagi Antenna  | Long Range directional WiFi Antenna  | [Link](http://s.click.aliexpress.com/e/2VrBUbu)  |     €9.45/$11.75    |
-| USB to Ethernet  | USB to Ethenet adapter, great for connecting to a Raspberry Pi Zero  | [Link](https://www.aliexpress.com/item/New-USB-2-0-Ethernet-10-100-Mbps-RJ45-Network-Card-Lan-Adapter-Adaptador-Drop-mShipping/32789454406.html)  |     €0/$0    |
-| USB to Ethernet hub  | Same as above, but with 3 USB ports added in  | [Link](http://s.click.aliexpress.com/e/vvnEE2J)  |     €0/$3.10    |
-| Mini Router Hub  | Small router with two ethernet ports  | [Link](https://www.aliexpress.com/item/Wifi-Router-NEXX-WT3020H-300Mbps-Portable-Mini-Router-802-11-b-g-nwifi-Repeater-Wifi-Bridge/32740552501.html)  |     €0/$0    |
-   
+| USB to Ethernet  | USB to Ethenet adapter, great for connecting to a Raspberry Pi Zero  | [Link](https://www.aliexpress.com/item/New-USB-2-0-Ethernet-10-100-Mbps-RJ45-Network-Card-Lan-Adapter-Adaptador-Drop-mShipping/32789454406.html)  |     €1.40/$0    |
+| USB to Ethernet hub  | Same as above, but with 3 USB ports added in  | [Link](http://s.click.aliexpress.com/e/vvnEE2J)  | €0/$3.10 |
+| Mini Router Hub  | Small router with two ethernet ports  | [Link](https://www.aliexpress.com/item/Wifi-Router-NEXX-WT3020H-300Mbps-Portable-Mini-Router-802-11-b-g-nwifi-Repeater-Wifi-Bridge/32740552501.html)  |     €12.38/$0    |
+| usb wifi | usb wifi RT5370 ralink | [link](https://www.aliexpress.com/item/150Mbps-Mini-Wi-Fi-USB-Adapter-Wireless-WiFi-Adapter-RALINK-RT5370-Antenna-WiFi-Antenna-External-Ethernet/32629171200.html) | €2.29/$0 |
+| usb wifi | usb wifi RT5370 ralink | [link](https://www.aliexpress.com/item/Ralink-RT5370-150Mbps-USB-2-0-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN/32802981907.html) | €2.60/$0 |
+| poe tester | NF-440PT 802.3AF/AT poe tester | [link](https://www.aliexpress.com/item/NF-400PT-The-802-3af-802-at-PoE-Power-over-Ethernet-Tester-connected-to-an-RJ45/32807663732.html) | €5.95/$0 |
+| poe splitter | poe splitter 5v 2a output micro usb | [link](https://www.aliexpress.com/item/Active-PoE-Splitter-Power-Over-Ethernet-48V-to-5V-2-4A-Micro-USB-4-Raspberry-Pi/32800364355.html) | €5.68/$0 |
+  
 ## RF / SDR (Software Defined Radio)
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | RTL-SDR  | Allows you to recieve signals floating in the air around you and decode them in programs like gqrx  | [Link](http://s.click.aliexpress.com/e/n2Fq7Y7)  |     €0/$8    |
 | GPS Antenna  | GPS antenna for RTL-SDR or Arduino board | [Link](http://s.click.aliexpress.com/e/baqNN37)  |     €0/$8    |
+| ipex to rpsma | 5 pcs ipex to rpsma 17cm | [link](https://www.aliexpress.com/item/5pcs-kit-Extension-Cord-UFL-to-RP-SMA-Connector-Antenna-WiFi-Pigtail-Cable-IPX-to-RP/32790742583.html) | €2.92/$0 |
+| ipex connector | ipex coneector 20 pcs | [link](https://www.aliexpress.com/item/Hot-sale-20PCS-UFL-seat-IPEX-IPX-connector-U-FL-R-SMT-RF-coaxial-connectors-Antenna/32833564737.html) | €1.16/$0 |
+| UV-5R baodeng | UV-5R boafeng; cheap portofoon | [link](https://www.aliexpress.com/item/Baofeng-UV-5R-Walkie-Talkie-Dual-Band-UHF-VHF-UV5R-CB-Radio-FM-128CH-VOX-Ham/32808987469.html) | €27.47/$0 |
+
+### RF ADAPTERS
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| sma male to rpsma male  | sma adapter  | [Link](https://www.aliexpress.com/item/Sale-Mini-Jack-Plug-1Pc-Adapter-RP-SMA-Male-Jack-To-SMA-Male-Plug-RF-Connector/32532566184.html) |     €1.35/$0    |
+| sma male to rpsma female  | sma adapter  | [Link](https://www.aliexpress.com/item/SMA-Male-Plug-switch-RP-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326888384.html) |     €0.77/$0    |
+| sma female to rpsma male  | sma adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Male-Plug-switch-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32325437738.html) |     €0.70/$0    |
+| sma female to rpsma female  | sma adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Female-Jack-switch-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326880246.html) |     €0.78/$0    |
+| sma male to sma male  | sma adapter  | [Link](https://www.aliexpress.com/item/SMA-Male-Plug-switch-Male-Plug-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326408192.html) |     €0.74/$0    |
+| sma female to sma female  | sma adapter  | [Link](https://www.aliexpress.com/item/SMA-Female-Jack-switch-Female-Jack-RF-Coax-Adapter-convertor-Straight-Textured-disc-Goldplated-NEW-wholesale/32451962659.html) |     €0.86/$0    |
+| rpsma male to rpsma male  | sma adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Male-Plug-switch-RP-SMA-Male-Plug-RF-Coax-Adapter-convertor-Straight-goldplated-NEW/32325461509.html) |     €0.86/$0    |
+| rpsma female to rpsma female  | sma adapter  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Female-Jack-switch-RP-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-Goldplated/32456879987.html) |     €0.68/$0    |
+
+### RF lora 
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| rpsma pcb edge connector | rpsma pcb edge connector 10 pcs | [Link](https://www.aliexpress.com/item/The-factory-sales-10-PCS-RP-SMA-Female-PCB-Edge-Mount-RF-Solder-Adapters-0-062/32584001055.html)  |     €1.95/$0    |
+| 868mhz 5dbi rpsma antenna | 868mhz 5dbi rpsma antenna  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Male-868-MHz-5dBi-Wireless-Antenna-Router-Antenna-15cm-RP-SMA-Female-to/32833645680.html)  |     €1.34/$0    |
+| LORA RFM95 868mhz | LORA RFM95 868mhz 2pcs  | [Link](https://www.aliexpress.com/item/RFM95RFM96-100mW-DSSS-spread-spectrum-wireless-transceiver-module-SPI-SX1278-SX1276-SMD/32245859329.html)  |     €9.09/$0    |
+| LORA module shield | LORA module shield  | [Link](https://www.aliexpress.com/item/Lora-Shield-for-ESPea-development-board/32828506739.html)  |     €0.82/$0    |
 
 ## Adapters
 | Item Name | Item Description | Item link | Price |
@@ -65,18 +93,57 @@ All prices in Euro and USD.<br />
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | 5V Relay  | Connnect this to projects with a higher voltage   | [Link](https://www.aliexpress.com/item/5V-Low-Level-Trigger-One-1-Channel-Relay-Module-DC-AC-220V-Interface-Relay-Board-Shield/32801667044.html)  |     €0/$0.53    |
-| RFID Module  | Allows you to read RFID tags, if you can get one that works  | [Link](
-http://s.click.aliexpress.com/e/YbimEy7)  |     €0/$0    |
+| RFID Module  | Allows you to read RFID tags, if you can get one that works  | [Link](http://s.click.aliexpress.com/e/YbimEy7)  |     €0/$0    |
 | Mini Breadboard  | Small breadboard for projects  | [Link](http://s.click.aliexpress.com/e/mia2bun)  |     €0/$0.42    |
+| test cable | alligator clips set of 10 piece | [Link](https://www.aliexpress.com/item/New-10Pcs-lot-Power-Test-Testing-Connector-Alligator-Clip-Probe-Clamp-Length-28mm-2-8CM/32357772850.html) | €0.59/$0 |
+| USB test load | 15w usb test load | [Link](https://www.aliexpress.com/item/15W-RD-Industrial-Grade-Electronic-Load-Resistor-USB-Interface-Discharge-Battery-Test-Capacity-with-Fan-Adjustable/32778782212.html) | €3.84/$0 |
+| test cable | 3 types dupont wire 20cm | [Link](https://www.aliexpress.com/item/120pcs-20cm-Dupont-line-120pcs-20cm-male-to-male-male-to-female-and-female-to-female/32256288997.html) | €1.95/$0 |
+| test cable | 3 types dupont wire 10cm | [Link](https://www.aliexpress.com/item/Dupont-line-120pcs-10cm-male-to-male-male-to-female-and-female-to-female-jumper/32328010671.html) | €1.57/$0 |
+| GPS | gps neo-6 serial 3.3v | [Link](https://www.aliexpress.com/item/GY-NEO6MV2-new-GPS-module-with-Flight-Control-Flight-Control-EEPROM-MWC-APM2-5-large-antenna/1820734232.html) | €3.74/$0 |
+| USB connector | USB male A 10 pcs | [Link](https://www.aliexpress.com/item/New-10pcs-Type-A-Male-USB-4-Pin-Plug-Socket-Connector-With-Black-Plastic-Cover/32708882608.html) | €1.17/$0 |
+| USB connector | USB female A 10 pcs | [Link](https://www.aliexpress.com/item/10Pcs-Type-A-Female-USB-4-Pin-Plug-Socket-Jack-Connector-Plug-Socket-with-Black-Plastic/32742100719.html) | €1.24/$0 |
+| USB power meter | USB power meter | [Link](https://www.aliexpress.com/item/Mini-USB-Voltage-Meter-Current-Voltage-Tester-Digital-Dispay-Charger-Capacity-Tester/32762613223.html) | €4.56/$0 |
+| usb adapter | micro usb to usb female | [Link](https://www.aliexpress.com/item/2015-Hot-New-Black-USB-2-0-Type-A-Female-to-Micro-USB-B-Female-Adapter/32533611468.html) | €0.72/$0 |
+| usb adapter | micro usb to usb male | [Link](https://www.aliexpress.com/item/Micro-5pin-USB-Female-To-USB-2-0-A-Male-Plug-USB-Adapter-Connector-Jun12-Professional/32816056652.html) | €0.53/$0 |
+| RGB led | WS2812B led 30 pcs | [Link](https://www.aliexpress.com/item/5V-LED-Chip-SMD-WS2812B-WS2812-9-6-9-6mm-Dia-Heatsink-10-30pcs-4-Pin/32797852321.html) | €3.01/$0 |
+| RGB led | apa102 led strip black 1m 30 ip30 | [Link](https://www.aliexpress.com/item/1m-5m-APA102-Smart-LED-Pixel-Strip-30-60-144-LEDs-Pixels-m-IP30-IP65-IP67/32780224340.html) | €10.46/$0 |
+| can module | spi can module | [Link](https://www.aliexpress.com/item/Free-shipping-MCP2515-CAN-Bus-Module-TJA1050-receiver-SPI-For-51-MCU-ARM-controller/32246703027.html) | €1.04/$0 |
+| sensor| dht22 sensor |  [Link](https://www.aliexpress.com/item/High-Precision-AM2302-DHT22-Digital-Temperature-Humidity-Sensor-Module-For-Uno-R3/32292606044.html) | €2.27/$0 |
+| level converter | TXS0108E 3.3v<>5v converter | [Link](https://www.aliexpress.com/item/Free-shipping-TXS0108E-high-speed-full-duplex-8-channel-level-conversion-module-bi-directional-voltage-converter/32403775232.html) | €0.60/$0 |
+| programming tool | usb byte blaster | [Link](https://www.aliexpress.com/item/altera-Mini-Usb-Blaster-Cable-For-CPLD-FPGA-NIOS-JTAG-Altera-Programmer/2038559613.html) | €2.26/$0 |
+| RF radio module | cc1101 433mhz version | [Link](https://www.aliexpress.com/item/Free-shipping-1PCS-CC1101-Wireless-Module-SMA-Antenna-Wireless-Transceiver-Module-For-Arduino/32287359615.html) | €2.97/$0 |
+| usb host | usb host shield | [Link](https://www.aliexpress.com/item/Mini-USB-Host-Shield-2-0-for-Arduino-ADK-SLR-development-tool/32772731644.html) | €4.92/$0 |
+| RFID | RFID moduel | [Link](https://www.aliexpress.com/item/Free-Shipping-RFID-module-RC522-Kits-S50-13-56-Mhz-6cm-With-Tags-SPI-Write-Read/32472685907.html) | €1.29/$0 |
+| adapter | I2C HD44780 display driver | [Link](https://www.aliexpress.com/item/New-Arrival-I2C-IIC-TWI-Serial-Interface-Board-Module-for-Arduino-R3-LCD-1602-Display-54x19/32703329048.html) | €1.58/$0 |
+| test cable | dupont headers | [Link](https://www.aliexpress.com/item/310Pcs-2-54mm-Male-Female-Dupont-Wire-Jumper-And-Header-Connector-Housing-Kit/32811413904.html) | €3.38/$0 |
+| adapter | micro sd card adapter | [Link](https://www.aliexpress.com/item/Micro-SD-card-module-TF-card-read-and-write-CARDS-SDIO-SIP-interface-mini-TF-card/32290845541.html) | €0.74/$0 |
+| test tool | QC2.0/3.0 usb voltage selector for testing | [Link](https://www.aliexpress.com/item/USB-voltage-apparatus-5V-9V-12V-15V/32604676697.html) | €3.19/$0 |
+| power converter | 3 usb power module| [Link](https://www.aliexpress.com/item/3-USB-Mini-Charging-Module-DC-DC-9V-12V-To-5V-8A-Step-Down-Power-Charger/32803562328.html) | €1.64/$0 |
+| sensor | thermocoupler MAX6675 | [Link](https://www.aliexpress.com/item/MAX6675-K-type-Thermocouple-Temperature-Sensor-Temperature-0-800-Degrees-Module-Free-Shipping/1902975176.html) | €2.00/$0 |
+| gyro-accel sensor | MPU-9250 gyro accel sensor | [Link](https://www.aliexpress.com/item/SPI-IIC-MPU9250-MPU-9250-MPU-9250-9-Axis-Attitude-Gyro-Accelerator-Magnetometer-Sensor-Module-MPU9250/32216818498.html) | €2.03/$0 |
+| power converter | 3.3v regulator for breadboard | [Link](https://www.aliexpress.com/item/LM1117-AMS1117-4-5-7V-turn-3-3V-DC-DC-Step-down-Power-Supply-Module-For/32588261370.html) | €0.19/$0 |
+| stm32 microcontroller | stm32f103 3.3v blue pill module | [Link](https://www.aliexpress.com/item/1pcs-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-For-arduino/32719680030.html) | €1.47/$0 |
+| parts | resistor kit 0603 | [Link](https://www.aliexpress.com/item/Free-shipping-0603-SMD-Resistor-Kit-Assorted-Kit-1ohm-1M-ohm-1-33valuesX-20pcs-660pcs-Sample/32773409942.html) | €1.16/$0 |
+| parts | resistor kit 0805 | [Link](https://www.aliexpress.com/item/Free-shipping-0805-SMD-Resistor-Kit-Assorted-Kit-1ohm-1M-ohm-1-33valuesX-20pcs-660pcs-Sample/32774104745.html) | €1.61/$0 |
+| parts | smd led 0603 | [Link](https://www.aliexpress.com/item/0603-SMD-LED-Kits-Red-Yellow-Blue-Green-White-5-colors-each-20pcs/32552321637.html) | €1.97/$0 |
+| parts | smd led 0805 | [Link](https://www.aliexpress.com/item/100pcs-lot-0805-SMD-LED-light-Package-LED-Package-Red-White-Green-Blue-Yellow-1206-led/32669899450.html) | €1.87/$0 |
+| can driver | 3.3v can driver SH65HVD230 | [Link](https://www.aliexpress.com/item/SN65HVD230-CAN-bus-transceiver-communication-module-for-arduino/32688103863.html) | €1.14/$0 |
+| power converter | buck converter 5 pcs | [Link](https://www.aliexpress.com/item/15962-Free-shipping-5pcs-LM2596-LM2596S-ADJ-Power-supply-module-DC-DC-Step-down-module-adjustable/32357345506.html) | €3.25/$0 |
+| power converter | buck converter 5 pcs | [Link](https://www.aliexpress.com/item/Free-shipping-Mini-Converter-Adjustable-DC-DC-Step-down-Power-Supply-Module-replace-LM2596/32379817867.html) | €2.88/$0 |
+| power converter | boost converter 3 pcs | [Link](https://www.aliexpress.com/item/15952-Free-Shipping-XL6009-DC-DC-Adjustable-Step-up-buck-boost-Power-Converter-Board-Module/32358330697.html) | €2.83/$0 |
+| power converter | HV boost converter | [Link](https://www.aliexpress.com/item/NCH6100HV-High-Voltage-DC-Power-Supply-Module-For-Nixie-Tube-Glow-Tube-Magic-Eye-DC-12V/32834903717.html) | €7.71/$0 |
+| power converter | step up/step down converter | [Link](https://www.aliexpress.com/item/DC-DC-Automatic-Step-Up-Step-Down-Module-3-5V-28V-to-1-25V-26V/32785618120.html) | €2.39/$0 |
+| power converter | step up/step down converter | [Link](https://www.aliexpress.com/item/Boost-Buck-DC-DC-adjustable-step-up-down-Converter-XL6009-Module-Solar-Voltage/32661520979.html) | €1.16/$0 |
 
 
 ## Miscellaneous
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link](https://www.aliexpress.com/item/1PCS-CP2102-USB-2-0-to-TTL-UART-Module-6Pin-Serial-Converter-STC-Replace-FT232/32717057832.html)  |     €0/$0    |
-| Electronic Clock Soldering Kit  | Kit to help people learn how to solder.   | [Link](https://www.aliexpress.com/item/1set-newest-4-electronic-clock-pieces-c51-4-bits-electronic-clock-C51-production-suite-DIY-electronics/32802779553.html)  |     €0/$0    |
-| Mini Pelican Case  | Mini shockproof case for storing items  | [Link](https://www.aliexpress.com/item/Outdoor-Waterproof-Shockproof-Airtight-Survival-Case-Container-Storage-Carrier-Shockproof-Box-Travel-Kit-EA14/32734730273.html?ws_ab_test=searchweb0_0,searchweb201602_4_10065_10344_10130_10068_10324_10547_10342_10325_10546_10343_10340_10548_10341_10545_10084_10083_10618_10307_10313_10059_10534_100031_10103_441_10624_442_10623_10622_10621_10620_10142,searchweb201603_25,ppcSwitch_5&algo_expid=1cbf70ed-e108-43bf-8fc6-98d2dfb6f780-3&algo_pvid=1cbf70ed-e108-43bf-8fc6-98d2dfb6f780&priceBeautifyAB=0)  |     €0/$0    |
-| Soldering/Bench Mat  | For when you need a place to work on your desk. Silicon, claims to be heat resistant.  | [Link](https://www.aliexpress.com/item/S-160-45x30cm-Heat-Insulation-Silicone-Pad-Desk-Mat-Maintenance-Platform-For-BGA-Soldering-Repair-Station/32809068012.html)  |     €0/$18    |
+| USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link](https://www.aliexpress.com/item/1PCS-CP2102-USB-2-0-to-TTL-UART-Module-6Pin-Serial-Converter-STC-Replace-FT232/32717057832.html)  |     €0.87/$0    |
+| Electronic Clock Soldering Kit  | Kit to help people learn how to solder.   | [Link](https://www.aliexpress.com/item/1set-newest-4-electronic-clock-pieces-c51-4-bits-electronic-clock-C51-production-suite-DIY-electronics/32802779553.html)  |     €2.36/$0    |
+| Mini Pelican Case  | Mini shockproof case for storing items  | [Link](https://www.aliexpress.com/item/Outdoor-Waterproof-Shockproof-Airtight-Survival-Case-Container-Storage-Carrier-Shockproof-Box-Travel-Kit-EA14/32734730273.html)  |     €2.05/$0    |
+| Soldering/Bench Mat  | For when you need a place to work on your desk. Silicon, claims to be heat resistant.  | [Link](https://www.aliexpress.com/item/S-160-45x30cm-Heat-Insulation-Silicone-Pad-Desk-Mat-Maintenance-Platform-For-BGA-Soldering-Repair-Station/32809068012.html)  |     €15.17/$18    |
+| anti static mat | for working anti static with electronics | [link](https://www.aliexpress.com/item/1pc-New-Black-Durable-Desktop-Anti-Static-Mat-Silicone-ESD-Grounding-Mats-700-500mm-Cord-for/32817716140.html) | €16.76/$0 |
 
 ## Switches 
 | Item Name | Item Description | Item link | Price |
@@ -84,6 +151,14 @@ http://s.click.aliexpress.com/e/YbimEy7)  |     €0/$0    |
 | Mushroom Switch  | Big Red button for your big red button needs  | [Link](http://s.click.aliexpress.com/e/R7iEujm)  |     €0/$0    |
 | Key Switch  | Key switch for when you need to lock that circut  | [Link](https://www.aliexpress.com/item/Key-Switch-ON-OFF-Lock-Switch-KS-01/32490689557.html)  |     €0/$0    |
 | Simple Toggle  | Just a basic toggle.   | [Link]()  |     €0/$0    |
+
+## Tools
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Crimptool  | dupont crimptool  | [Link](https://www.aliexpress.com/item/SN-28B-MINI-EUROP-STYLE-crimping-tool-crimping-plier-0-1-1mm2-multi-tool-tools-hands/1244923537.html)  |     €3.91/$0    |
+| LCR meter  | HoldPeak HP-4070L Digital Capacitance Meter Inductance Meter LCR Meter  | [Link](https://www.aliexpress.com/item/HoldPeak-HP-4070L-Digital-Capacitance-Meter-Inductance-Meter-LCR-Meter/32786178859.html)  |     €14.22/$0    |
+| tweezers  | 6pcs Metal Anti-static Tweezers  | [Link](https://www.aliexpress.com/item/6pcs-Metal-Resists-Corrosion-Safe-Anti-static-Tweezers-Maintenance-Tools-Value-Packs-Anti-static-Anti-corrosion/32836866776.html)  |     €1.95/$0    |
+| Measurer Tool | 0-36 Round AWG Wire Thickness Ruler Gauge   | [Link](https://www.aliexpress.com/item/High-Quality-Stainless-Steel-0-36-Round-AWG-Wire-Thickness-Ruler-Gauge-Diameter-Measurer-Tool-stainless/32829697743.html)  |     €3.44/$0    |
 
 <!--This is a template for adding extra cells. Ignore it. 
 | Content Cell  | Content Cell  | [Link]()  |     €0/$0    |-->
