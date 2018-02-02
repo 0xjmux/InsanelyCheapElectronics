@@ -6,6 +6,7 @@ All prices in Euro and USD.<br />
  - [@GarrukApex](https://github.com/GarrukApex)
  - [@abdullahseba](https://github.com/abdullahseba)
  - [@digitaldisarray](https://github.com/digitaldisarray) <!-- :D -->
+ - [@killergek](https://github.com/killergeek)
 <!--(add your username here my dudes)-->
 
 ## Table of Contents
