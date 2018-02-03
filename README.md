@@ -95,8 +95,13 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## ESP Modules
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Node MCU  | Look at @Spacehuhn's deauther project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
-
+  | NodeMCU  | Look at @Spacehuhn's deauther project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
+  | NodeMCU-07 | Modified NodeMCU with ESP-07 and LiPo charger | [Link](https://www.aliexpress.com/item/NodeMCU-07-WiFi-deauther-preflashed-2dBi-antenna-ESP8266-ESP-07-wireless-radio-development-kit-micro-usb/32839620256.html) |
+  | WiFi Deauther | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](https://www.aliexpress.com/item/WiFi-deauther-V3-ESP8266-ESP-07-with-2dBi-antenna-Powerbank-Flashlight-2A-Input-2A-output-wireless/32838970615.html) |
+  | WiFi Deauther OLED | ESP8266 + antenna + 18650 connector + OLED + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](https://www.aliexpress.com/item/WiFi-deauther-OLED-V2-include-Case-and-Antenna/32825138910.html) |
+  | PacketMonitor | ESP8266 + antenna + 1.3" OLED + preflashed [PacketMonitor](https://github.com/spacehuhn/PacketMonitor) software | [Link](https://www.aliexpress.com/item/WiFi-Packet-Monitor-Preflashed-D-duino-B-ESP8266-1-3OLED/32816508278.html) |
+  | PacketMonitor32 | ESP32 WROVER + 1.3" OLED + SD card support + preflashed [PacketMonitor32](https://github.com/spacehuhn/PacketMonitor32) software | [Link](https://www.aliexpress.com/item/WiFi-Packet-Monitor-V3-Preflashed-D-duino-32-SD-ESP32-Wrover-1-3OLED-4MB-Flash-PSRAM/32847023236.html) |
+    
   ## Wifi Adapters
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
