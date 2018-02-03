@@ -143,7 +143,7 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## Microcontrollers
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | stm32 microcontroller | stm32f103 3.3v blue pill module | [Link](https://www.aliexpress.com/item/1pcs-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-For-arduino/32719680030.html) | €1.47/$0 |
+  | 32 microcontroller | stm32f103 3.3v blue pill module | [Link](https://www.aliexpress.com/item/1pcs-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-For-arduino/32719680030.html) | €1.47/$0 |
 
   ## Lasers
   | Item Name | Item Description | Item link | Price |
@@ -158,10 +158,10 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## LED's
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | LED | smd led 0603 | [Link](https://www.aliexpress.com/item/0603-SMD-LED-Kits-Red-Yellow-Blue-Green-White-5-colors-each-20pcs/32552321637.html) | €1.97/$0 |
-  | LED | smd led 0805 | [Link](https://www.aliexpress.com/item/100pcs-lot-0805-SMD-LED-light-Package-LED-Package-Red-White-Green-Blue-Yellow-1206-led/32669899450.html) | €1.87/$0 |
-  | RGB led | WS2812B led 30 pcs | [Link](https://www.aliexpress.com/item/5V-LED-Chip-SMD-WS2812B-WS2812-9-6-9-6mm-Dia-Heatsink-10-30pcs-4-Pin/32797852321.html) | €3.01/$0 |
-  | RGB led | apa102 led strip black 1m 30 ip30 | [Link](https://www.aliexpress.com/item/1m-5m-APA102-Smart-LED-Pixel-Strip-30-60-144-LEDs-Pixels-m-IP30-IP65-IP67/32780224340.html) | €10.46/$0 |
+  | LED | SMD LED 0603 | [Link](https://www.aliexpress.com/item/0603-SMD-LED-Kits-Red-Yellow-Blue-Green-White-5-colors-each-20pcs/32552321637.html) | €1.97/$0 |
+  | LED | SMD LED 0805 | [Link](https://www.aliexpress.com/item/100pcs-lot-0805-SMD-LED-light-Package-LED-Package-Red-White-Green-Blue-Yellow-1206-led/32669899450.html) | €1.87/$0 |
+  | RGB LED | WS2812B LED 30 pcs | [Link](https://www.aliexpress.com/item/5V-LED-Chip-SMD-WS2812B-WS2812-9-6-9-6mm-Dia-Heatsink-10-30pcs-4-Pin/32797852321.html) | €3.01/$0 |
+  | RGB LED | APA102 LED Strip Black 1M 30 IP30 | [Link](https://www.aliexpress.com/item/1m-5m-APA102-Smart-LED-Pixel-Strip-30-60-144-LEDs-Pixels-m-IP30-IP65-IP67/32780224340.html) | €10.46/$0 |
 
   ## Passive Kits / Sets
   | Item Name | Item Description | Item link | Price |
@@ -177,10 +177,10 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## Handy Modules
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | level converter | TXS0108E 3.3v<>5v converter | [Link](https://www.aliexpress.com/item/Free-shipping-TXS0108E-high-speed-full-duplex-8-channel-level-conversion-module-bi-directional-voltage-converter/32403775232.html) | €0.60/$0 |
+  | Level Converter | TXS0108E 3.3v<>5v converter | [Link](https://www.aliexpress.com/item/Free-shipping-TXS0108E-high-speed-full-duplex-8-channel-level-conversion-module-bi-directional-voltage-converter/32403775232.html) | €0.60/$0 |
   | I2C HD44780  Adapter | I2C HD44780 display driver | [Link](https://www.aliexpress.com/item/New-Arrival-I2C-IIC-TWI-Serial-Interface-Board-Module-for-Arduino-R3-LCD-1602-Display-54x19/32703329048.html) | €1.58/$0 |
-  | can driver | 3.3v can driver SH65HVD230 | [Link](https://www.aliexpress.com/item/SN65HVD230-CAN-bus-transceiver-communication-module-for-arduino/32688103863.html) | €1.14/$0 |
-  | can module | spi can module | [Link](https://www.aliexpress.com/item/Free-shipping-MCP2515-CAN-Bus-Module-TJA1050-receiver-SPI-For-51-MCU-ARM-controller/32246703027.html) | €1.04/$0 |
+  | CAN Driver | 3.3v can driver SH65HVD230 | [Link](https://www.aliexpress.com/item/SN65HVD230-CAN-bus-transceiver-communication-module-for-arduino/32688103863.html) | €1.14/$0 |
+  | CAN Module | spi can module | [Link](https://www.aliexpress.com/item/Free-shipping-MCP2515-CAN-Bus-Module-TJA1050-receiver-SPI-For-51-MCU-ARM-controller/32246703027.html) | €1.04/$0 |
   | USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link](https://www.aliexpress.com/item/1PCS-CP2102-USB-2-0-to-TTL-UART-Module-6Pin-Serial-Converter-STC-Replace-FT232/32717057832.html)  |     €0.87/$0    |
 
   ## Sensors
