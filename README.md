@@ -336,7 +336,6 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## RF-Adapters
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------| 
-<<<<<<< HEAD
   | IPEX To RPSMA | 5 pcs IPEX To RPSMA 17cm | [link](https://www.aliexpress.com/item/5pcs-kit-Extension-Cord-UFL-to-RP-SMA-Connector-Antenna-WiFi-Pigtail-Cable-IPX-to-RP/32790742583.html) | €2.92/$0 |
   | IPEX Connector | IPEX Connector 20 pcs | [link](https://www.aliexpress.com/item/Hot-sale-20PCS-UFL-seat-IPEX-IPX-connector-U-FL-R-SMT-RF-coaxial-connectors-Antenna/32833564737.html) | €1.16/$0 |
   | SMA Male To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/Sale-Mini-Jack-Plug-1Pc-Adapter-RP-SMA-Male-Jack-To-SMA-Male-Plug-RF-Connector/32532566184.html) |     €1.35/$0    |
@@ -347,10 +346,6 @@ Collaboration list below is only for major contributors. Small or one time contr
   | SMA Female To SMA Female  | SMA Adapter  | [Link](https://www.aliexpress.com/item/SMA-Female-Jack-switch-Female-Jack-RF-Coax-Adapter-convertor-Straight-Textured-disc-Goldplated-NEW-wholesale/32451962659.html) |     €0.86/$0    |
   | RPSMA Male To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Male-Plug-switch-RP-SMA-Male-Plug-RF-Coax-Adapter-convertor-Straight-goldplated-NEW/32325461509.html) |     €0.86/$0    |
   | RPSMA Female To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Female-Jack-switch-RP-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-Goldplated/32456879987.html) |     €0.68/$0    |
-=======
-  | IPEX to RPSMA | 5 pcs IPEX to RPSMA 17cm | [link](https://www.aliexpress.com/item/5pcs-kit-Extension-Cord-UFL-to-RP-SMA-Connector-Antenna-WiFi-Pigtail-Cable-IPX-to-RP/32790742583.html) | €2.92/$0 |
-  | IPEX Connector | IPEX Connector 20 pcs | [link](https://www.aliexpress.com/item/Hot-sale-20PCS-UFL-seat-IPEX-IPX-connector-U-FL-R-SMT-RF-coaxial-connectors-Antenna/32833564737.html) | €1.16/$0 |
->>>>>>> 1fb918b669c527c26b6e2e66303781caef97b5b9
 
   ## RF Antennas
   | Item Name | Item Description | Item link | Price |
@@ -361,15 +356,9 @@ Collaboration list below is only for major contributors. Small or one time contr
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | RPSMA PCB Edge Connector | RPSMA PCB Edge Connector 10 pcs | [Link](https://www.aliexpress.com/item/The-factory-sales-10-PCS-RP-SMA-Female-PCB-Edge-Mount-RF-Solder-Adapters-0-062/32584001055.html)  |     €1.95/$0    |
-<<<<<<< HEAD
   | 868MHz 5dBi RPSMA Antenna | 868mhz 5dBi RPSMA Antenna  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Male-868-MHz-5dBi-Wireless-Antenna-Router-Antenna-15cm-RP-SMA-Female-to/32833645680.html)  |     €1.34/$0    |
   | LORA RFM95 868MHz | LORA RFM95 868MHz 2pcs  | [Link](https://www.aliexpress.com/item/RFM95RFM96-100mW-DSSS-spread-spectrum-wireless-transceiver-module-SPI-SX1278-SX1276-SMD/32245859329.html)  |     €9.09/$0    |
   | LORA Module Shield | LORA Module Shield  | [Link](https://www.aliexpress.com/item/Lora-Shield-for-ESPea-development-board/32828506739.html)  |     €0.82/$0    |
-=======
-  | 868mhz 5dbi RPSMA Antenna | 868mhz 5dbi RPSMA Antenna  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Male-868-MHz-5dBi-Wireless-Antenna-Router-Antenna-15cm-RP-SMA-Female-to/32833645680.html)  |     €1.34/$0    |
-  | LORA RFM95 868mhz | LORA RFM95 868mhz 2pcs  | [Link](https://www.aliexpress.com/item/RFM95RFM96-100mW-DSSS-spread-spectrum-wireless-transceiver-module-SPI-SX1278-SX1276-SMD/32245859329.html)  |     €9.09/$0    |
-  | LORA module shield | LORA module shield  | [Link](https://www.aliexpress.com/item/Lora-Shield-for-ESPea-development-board/32828506739.html)  |     €0.82/$0    |
->>>>>>> 1fb918b669c527c26b6e2e66303781caef97b5b9
 
 
   ## RF Modules
