@@ -5,8 +5,10 @@ All prices in Euro and USD.<br />
 
 Feel Free add to it by making a PR.<br />
 Issues are only for category requests, reporting or questions.<br />
+Try to keep it from China :) Other places are welcome as long as they offer worldwide shipping and are cheap. <br />
 If a link is broken outdated try to find a newer one or remove it if necessary then make a PR.  <br />
-Collaboration list below is only for major contributors. Small or one time contributors go in [contributors.md](https://github.com/ScriptKitteh/MyStrangeAddiction/blob/master/contributors.md).
+When adding prices make sure you add both euro and USD prices. You use google to find one or the other of them. <br />
+Collaboration list below is only for major contributors. Small or one time contributors go in [contributors.md](https://github.com/ScriptKitteh/MyStrangeAddiction/blob/master/contributors.md). <br />
 
 
 #### This is a collaboration between:
@@ -29,24 +31,24 @@ Collaboration list below is only for major contributors. Small or one time contr
     - [Cases](#cases)
      -[Hats](#hats)
   - [General Electronics](#general-electronics)
-    - [Switches](#switches-&-buttons)  
+    - [Switches](#switches--buttons)  
     - [Relays](#relays)  
     - [Microcontrollers](#microcontrollers)  
     - [Lasers](#lasers)  
     - [LCD's](#lcds)  
     - [LED's](#leds)  
-    - [Passives & Kits / Sets](#passives-&-kits--sets)  
+    - [Passives & Kits / Sets](#passives--kits--sets)  
     - [IC's](#ics)  
     - [Handy Modules](#handy-modules)  
     - [Sensors](#sensors)  
     - [Connectors](#connectors)  
-    - [Cables & Wires](#cables-&-wires)  
-    - [Power Modules, Boost Converters & PSU'S](#power-modules-boost-converters-&-psus)  
+    - [Cables & Wires](#cables--wires)  
+    - [Power Modules, Boost Converters & PSU'S](#power-modules-boost-converters--psus)  
     - [Other Components](#other-components)
-    - [Handy Adapters & Cables](#handy-adapters-&-cables)
+    - [Handy Adapters & Cables](#handy-adapters--cables)
     - [Other Electronics](#other-electronics)
   - [Tools](#tools)
-    - [Meters & Testers](#meters-&-testers)
+    - [Meters & Testers](#meters--testers)
     - [Test Cables, Alligator Clips etc](#test-cables-alligator-clips-etc)
     - [Soldering](#soldering)
     - [Prototyping](#prototyping)
@@ -70,7 +72,7 @@ Collaboration list below is only for major contributors. Small or one time contr
     - [RF-Modules](#rf-modules)
     - [GPS](#gps)  
     - [RFID](#rfid)
-    - [UHF / VHF & Ham Radios](#uhf--vhf-&-ham-radios)
+    - [UHF / VHF & Ham Radios](#uhf--vhf--ham-radios)
     
 
     
