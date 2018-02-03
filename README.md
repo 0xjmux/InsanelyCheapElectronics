@@ -4,11 +4,12 @@ This repo is a work in progress. Me and a bunch of my discord friends on [Spaceh
 All prices in Euro and USD.<br />
 
 Feel Free add to it by making a PR.<br />
-#### Rules:
+#### Contributing Rules:
 - Issues are only for category requests, reporting or questions.<br />
+- If a price is outdated make a PR.<br />
 - Try to keep it from China :) Other places are welcome as long as they offer worldwide shipping and are cheap. <br />
 - If a link is broken or outdated try to find a newer one or remove it if necessary then make a PR.  <br />
-- When adding prices make sure you add <b>both</b> euro and USD prices. You use google to find one or the other of them. <br />
+- When adding prices make sure you add <b>both</b> euro and USD prices. You use google to find one or the other of them. Indicate by adding "+ Delivery" at the end <br />
 - Collaboration list below is only for major contributors. Small or one time contributors go in [contributors.md](https://github.com/ScriptKitteh/MyStrangeAddiction/blob/master/contributors.md). <br />
 
 
@@ -97,11 +98,11 @@ Feel Free add to it by making a PR.<br />
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | NodeMCU  | Look at @Spacehuhn's deauther project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
-  | NodeMCU-07 | Modified NodeMCU with ESP-07 and LiPo charger | [Link](https://www.aliexpress.com/item/NodeMCU-07-WiFi-deauther-preflashed-2dBi-antenna-ESP8266-ESP-07-wireless-radio-development-kit-micro-usb/32839620256.html) |
-  | WiFi Deauther | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](https://www.aliexpress.com/item/WiFi-deauther-V3-ESP8266-ESP-07-with-2dBi-antenna-Powerbank-Flashlight-2A-Input-2A-output-wireless/32838970615.html) |
-  | WiFi Deauther OLED | ESP8266 + antenna + 18650 connector + OLED + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](https://www.aliexpress.com/item/WiFi-deauther-OLED-V2-include-Case-and-Antenna/32825138910.html) |
-  | PacketMonitor | ESP8266 + antenna + 1.3" OLED + preflashed [PacketMonitor](https://github.com/spacehuhn/PacketMonitor) software | [Link](https://www.aliexpress.com/item/WiFi-Packet-Monitor-Preflashed-D-duino-B-ESP8266-1-3OLED/32816508278.html) |
-  | PacketMonitor32 | ESP32 WROVER + 1.3" OLED + SD card support + preflashed [PacketMonitor32](https://github.com/spacehuhn/PacketMonitor32) software | [Link](https://www.aliexpress.com/item/WiFi-Packet-Monitor-V3-Preflashed-D-duino-32-SD-ESP32-Wrover-1-3OLED-4MB-Flash-PSRAM/32847023236.html) |
+  | NodeMCU-07 | Modified NodeMCU with ESP-07 and LiPo charger | [Link](https://www.aliexpress.com/item/NodeMCU-07-WiFi-deauther-preflashed-2dBi-antenna-ESP8266-ESP-07-wireless-radio-development-kit-micro-usb/32839620256.html) |     €8.13/$10.13 + Delivery   |
+  | WiFi Deauther | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](https://www.aliexpress.com/item/WiFi-deauther-V3-ESP8266-ESP-07-with-2dBi-antenna-Powerbank-Flashlight-2A-Input-2A-output-wireless/32838970615.html) |     €12.19/$15.19 + Delivery    |
+  | WiFi Deauther OLED | ESP8266 + antenna + 18650 connector + OLED + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](https://www.aliexpress.com/item/WiFi-deauther-OLED-V2-include-Case-and-Antenna/32825138910.html) |     €24.37/$30.37 + Delivery    |
+  | PacketMonitor | ESP8266 + antenna + 1.3" OLED + preflashed [PacketMonitor](https://github.com/spacehuhn/PacketMonitor) software | [Link](https://www.aliexpress.com/item/WiFi-Packet-Monitor-Preflashed-D-duino-B-ESP8266-1-3OLED/32816508278.html) |     €10.56/$13.16 + Delivery     |
+  | PacketMonitor32 | ESP32 WROVER + 1.3" OLED + SD card support + preflashed [PacketMonitor32](https://github.com/spacehuhn/PacketMonitor32) software | [Link](https://www.aliexpress.com/item/WiFi-Packet-Monitor-V3-Preflashed-D-duino-32-SD-ESP32-Wrover-1-3OLED-4MB-Flash-PSRAM/32847023236.html) |     €15.44/$19.24  + Delivery   |
     
   ## Wifi Adapters
   | Item Name | Item Description | Item link | Price |
