@@ -4,11 +4,12 @@ This repo is a work in progress. Me and a bunch of my discord friends on [Spaceh
 All prices in Euro and USD.<br />
 
 Feel Free add to it by making a PR.<br />
-Issues are only for category requests, reporting or questions.<br />
-Try to keep it from China :) Other places are welcome as long as they offer worldwide shipping and are cheap. <br />
-If a link is broken outdated try to find a newer one or remove it if necessary then make a PR.  <br />
-When adding prices make sure you add <b>both</b> euro and USD prices. You use google to find one or the other of them. <br />
-Collaboration list below is only for major contributors. Small or one time contributors go in [contributors.md](https://github.com/ScriptKitteh/MyStrangeAddiction/blob/master/contributors.md). <br />
+#### Rules:
+- Issues are only for category requests, reporting or questions.<br />
+- Try to keep it from China :) Other places are welcome as long as they offer worldwide shipping and are cheap. <br />
+- If a link is broken or outdated try to find a newer one or remove it if necessary then make a PR.  <br />
+- When adding prices make sure you add <b>both</b> euro and USD prices. You use google to find one or the other of them. <br />
+- Collaboration list below is only for major contributors. Small or one time contributors go in [contributors.md](https://github.com/ScriptKitteh/MyStrangeAddiction/blob/master/contributors.md). <br />
 
 
 #### This is a collaboration between:
