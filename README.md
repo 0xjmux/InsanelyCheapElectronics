@@ -330,21 +330,22 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## SDR (Software Defined Radio
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | RTL-SDR  | Allows you to receive signals floating in the air around you and decode them in programs like gqrx  | [Link](http://s.click.aliexpress.com/e/n2Fq7Y7)  |     €0/$8    |
-  | sma male to rpsma male  | sma adapter  | [Link](https://www.aliexpress.com/item/Sale-Mini-Jack-Plug-1Pc-Adapter-RP-SMA-Male-Jack-To-SMA-Male-Plug-RF-Connector/32532566184.html) |     €1.35/$0    |
-  | sma male to rpsma female  | sma adapter  | [Link](https://www.aliexpress.com/item/SMA-Male-Plug-switch-RP-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326888384.html) |     €0.77/$0    |
-  | sma female to rpsma male  | sma adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Male-Plug-switch-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32325437738.html) |     €0.70/$0    |
-  | sma female to rpsma female  | sma adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Female-Jack-switch-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326880246.html) |     €0.78/$0    |
-  | sma male to sma male  | sma adapter  | [Link](https://www.aliexpress.com/item/SMA-Male-Plug-switch-Male-Plug-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326408192.html) |     €0.74/$0    |
-  | sma female to sma female  | sma adapter  | [Link](https://www.aliexpress.com/item/SMA-Female-Jack-switch-Female-Jack-RF-Coax-Adapter-convertor-Straight-Textured-disc-Goldplated-NEW-wholesale/32451962659.html) |     €0.86/$0    |
-  | rpsma male to rpsma male  | sma adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Male-Plug-switch-RP-SMA-Male-Plug-RF-Coax-Adapter-convertor-Straight-goldplated-NEW/32325461509.html) |     €0.86/$0    |
-  | rpsma female to rpsma female  | sma adapter  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Female-Jack-switch-RP-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-Goldplated/32456879987.html) |     €0.68/$0    |
+  | RTL-SDR  | Allows you to receive signals floating in the air around you and decode them in programs like GQRX  | [Link](http://s.click.aliexpress.com/e/n2Fq7Y7)  |     €0/$8    |
+
 
   ## RF-Adapters
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------| 
-  | ipex to rpsma | 5 pcs ipex to rpsma 17cm | [link](https://www.aliexpress.com/item/5pcs-kit-Extension-Cord-UFL-to-RP-SMA-Connector-Antenna-WiFi-Pigtail-Cable-IPX-to-RP/32790742583.html) | €2.92/$0 |
-  | ipex connector | ipex connector 20 pcs | [link](https://www.aliexpress.com/item/Hot-sale-20PCS-UFL-seat-IPEX-IPX-connector-U-FL-R-SMT-RF-coaxial-connectors-Antenna/32833564737.html) | €1.16/$0 |
+  | IPEX To RPSMA | 5 pcs IPEX To RPSMA 17cm | [link](https://www.aliexpress.com/item/5pcs-kit-Extension-Cord-UFL-to-RP-SMA-Connector-Antenna-WiFi-Pigtail-Cable-IPX-to-RP/32790742583.html) | €2.92/$0 |
+  | IPEX Connector | IPEX Connector 20 pcs | [link](https://www.aliexpress.com/item/Hot-sale-20PCS-UFL-seat-IPEX-IPX-connector-U-FL-R-SMT-RF-coaxial-connectors-Antenna/32833564737.html) | €1.16/$0 |
+  | SMA Male To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/Sale-Mini-Jack-Plug-1Pc-Adapter-RP-SMA-Male-Jack-To-SMA-Male-Plug-RF-Connector/32532566184.html) |     €1.35/$0    |
+  | SMA Male To RPSMA Female  | SMA Adapter  | [Link](https://www.aliexpress.com/item/SMA-Male-Plug-switch-RP-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326888384.html) |     €0.77/$0    |
+  | SMA Female To RPSMA male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Male-Plug-switch-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32325437738.html) |     €0.70/$0    |
+  | SMA Female To RPSMA Female  | SMA Adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Female-Jack-switch-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326880246.html) |     €0.78/$0    |
+  | SMA Male To SMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/SMA-Male-Plug-switch-Male-Plug-RF-Coax-Adapter-convertor-Straight-goldplated-NEW-wholesale/32326408192.html) |     €0.74/$0    |
+  | SMA Female To SMA Female  | SMA Adapter  | [Link](https://www.aliexpress.com/item/SMA-Female-Jack-switch-Female-Jack-RF-Coax-Adapter-convertor-Straight-Textured-disc-Goldplated-NEW-wholesale/32451962659.html) |     €0.86/$0    |
+  | RPSMA Male To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Male-Plug-switch-RP-SMA-Male-Plug-RF-Coax-Adapter-convertor-Straight-goldplated-NEW/32325461509.html) |     €0.86/$0    |
+  | RPSMA Female To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Female-Jack-switch-RP-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-Goldplated/32456879987.html) |     €0.68/$0    |
 
   ## RF Antennas
   | Item Name | Item Description | Item link | Price |
@@ -354,22 +355,22 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## Lora
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | rpsma pcb edge connector | rpsma pcb edge connector 10 pcs | [Link](https://www.aliexpress.com/item/The-factory-sales-10-PCS-RP-SMA-Female-PCB-Edge-Mount-RF-Solder-Adapters-0-062/32584001055.html)  |     €1.95/$0    |
-  | 868mhz 5dbi rpsma antenna | 868mhz 5dbi rpsma antenna  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Male-868-MHz-5dBi-Wireless-Antenna-Router-Antenna-15cm-RP-SMA-Female-to/32833645680.html)  |     €1.34/$0    |
-  | LORA RFM95 868mhz | LORA RFM95 868mhz 2pcs  | [Link](https://www.aliexpress.com/item/RFM95RFM96-100mW-DSSS-spread-spectrum-wireless-transceiver-module-SPI-SX1278-SX1276-SMD/32245859329.html)  |     €9.09/$0    |
-  | LORA module shield | LORA module shield  | [Link](https://www.aliexpress.com/item/Lora-Shield-for-ESPea-development-board/32828506739.html)  |     €0.82/$0    |
+  | RPSMA PCB Edge Connector | RPSMA PCB Edge Connector 10 pcs | [Link](https://www.aliexpress.com/item/The-factory-sales-10-PCS-RP-SMA-Female-PCB-Edge-Mount-RF-Solder-Adapters-0-062/32584001055.html)  |     €1.95/$0    |
+  | 868MHz 5dBi RPSMA Antenna | 868mhz 5dBi RPSMA Antenna  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Male-868-MHz-5dBi-Wireless-Antenna-Router-Antenna-15cm-RP-SMA-Female-to/32833645680.html)  |     €1.34/$0    |
+  | LORA RFM95 868MHz | LORA RFM95 868MHz 2pcs  | [Link](https://www.aliexpress.com/item/RFM95RFM96-100mW-DSSS-spread-spectrum-wireless-transceiver-module-SPI-SX1278-SX1276-SMD/32245859329.html)  |     €9.09/$0    |
+  | LORA Module Shield | LORA Module Shield  | [Link](https://www.aliexpress.com/item/Lora-Shield-for-ESPea-development-board/32828506739.html)  |     €0.82/$0    |
 
 
   ## RF Modules
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | RF radio module | cc1101 433mhz version | [Link](https://www.aliexpress.com/item/Free-shipping-1PCS-CC1101-Wireless-Module-SMA-Antenna-Wireless-Transceiver-Module-For-Arduino/32287359615.html) | €2.97/$0 |
+  | RF Radio Module | CC1101 433MHz Version | [Link](https://www.aliexpress.com/item/Free-shipping-1PCS-CC1101-Wireless-Module-SMA-Antenna-Wireless-Transceiver-Module-For-Arduino/32287359615.html) | €2.97/$0 |
 
   ## GPS
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | GPS Antenna  | GPS antenna for RTL-SDR or Arduino board | [Link](http://s.click.aliexpress.com/e/baqNN37)  |     €0/$8    |
-  | GPS | gps neo-6 serial 3.3v | [Link](https://www.aliexpress.com/item/GY-NEO6MV2-new-GPS-module-with-Flight-Control-Flight-Control-EEPROM-MWC-APM2-5-large-antenna/1820734232.html) | €3.74/$0 |
+  | GPS Antenna  | GPS Antenna for RTL-SDR or Arduino board | [Link](http://s.click.aliexpress.com/e/baqNN37)  |     €0/$8    |
+  | GPS | GPS NEO-6 Serial 3.3v | [Link](https://www.aliexpress.com/item/GY-NEO6MV2-new-GPS-module-with-Flight-Control-Flight-Control-EEPROM-MWC-APM2-5-large-antenna/1820734232.html) | €3.74/$0 |
 
   ## RFID
   | Item Name | Item Description | Item link | Price |
@@ -380,7 +381,7 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## UHF / VHF & Ham Radios
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | UV-5R baodeng | UV-5R boafeng; cheap portofoon | [link](https://www.aliexpress.com/item/Baofeng-UV-5R-Walkie-Talkie-Dual-Band-UHF-VHF-UV5R-CB-Radio-FM-128CH-VOX-Ham/32808987469.html) | €27.47/$0 |
+  | UV-5R Boafeng | UV-5R Boafeng; Cheap Handheld Radio | [link](https://www.aliexpress.com/item/Baofeng-UV-5R-Walkie-Talkie-Dual-Band-UHF-VHF-UV5R-CB-Radio-FM-128CH-VOX-Ham/32808987469.html) | €27.47/$0 |
 
 
 
