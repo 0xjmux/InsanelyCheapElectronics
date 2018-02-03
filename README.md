@@ -318,6 +318,8 @@ Collaboration list below is only for major contributors. Small or one time contr
   | poe splitter | poe splitter 5v 2a output micro usb | [link](https://www.aliexpress.com/item/Active-PoE-Splitter-Power-Over-Ethernet-48V-to-5V-2-4A-Micro-USB-4-Raspberry-Pi/32800364355.html) | €5.68/$0 |
 
   ## USB Networking
+  | Item Name | Item Description | Item link | Price |
+  | ------------- | ------------- | ------------- | -------------|
   | USB to Ethernet  | USB to Ethernet adapter, great for connecting to a Raspberry Pi Zero  | [Link](https://www.aliexpress.com/item/New-USB-2-0-Ethernet-10-100-Mbps-RJ45-Network-Card-Lan-Adapter-Adaptador-Drop-mShipping/32789454406.html)  |     €1.40/$0    |
   | USB to Ethernet hub  | Same as above, but with 3 USB ports added in  | [Link](http://s.click.aliexpress.com/e/vvnEE2J)  | €0/$3.10 |
 
