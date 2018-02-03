@@ -34,7 +34,7 @@ HAK5 is a great place for all kinds of hacking and pentesting tools.
 - [HAK5 forum](https://forums.hak5.org/)
 
 This site is a repository of DIY'ing Hak5 gear, in case you can't afford the real stuff. 
-- [Hak5Shop](https://hak5shop.com)
+- [Hak5Shop](http://www.hak5shop.com/)
 
 ## Blogs and Lists
 This is a list that shows intersting blogs and list of parts people have bought.
