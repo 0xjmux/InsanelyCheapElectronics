@@ -101,8 +101,8 @@ Collaboration list below is only for major contributors. Small or one time contr
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | Usb WiFi Adapter  | Small USB adapter for wifi, injection cabable | [Link](https://www.aliexpress.com/item/Hot-Sale-Mini-PC-wifi-adapter-150M-USB-WiFi-antenna-Wireless-Computer-Network-Card-802-11n/32659894879.html)  |     €1.47/$1.83    |
-  | usb wifi | usb wifi RT5370 ralink | [link](https://www.aliexpress.com/item/150Mbps-Mini-Wi-Fi-USB-Adapter-Wireless-WiFi-Adapter-RALINK-RT5370-Antenna-WiFi-Antenna-External-Ethernet/32629171200.html) | €2.29/$0 |
-  | usb wifi | usb wifi RT5370 ralink | [link](https://www.aliexpress.com/item/Ralink-RT5370-150Mbps-USB-2-0-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN/32802981907.html) | €2.60/$0 |
+  | USB WiFi Adapter | USB WiFi RT5370 Ralink, with SMA detachable | [link](https://www.aliexpress.com/item/150Mbps-Mini-Wi-Fi-USB-Adapter-Wireless-WiFi-Adapter-RALINK-RT5370-Antenna-WiFi-Antenna-External-Ethernet/32629171200.html) | €2.29/$0 |
+  | USB WiFi Adapter | USB WiFi RT5370 Ralink Non-detachable | [link](https://www.aliexpress.com/item/Ralink-RT5370-150Mbps-USB-2-0-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN/32802981907.html) | €2.60/$0 |
   
   ## Wifi Antennas
   | Item Name | Item Description | Item link | Price |
@@ -143,7 +143,7 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## Microcontrollers
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | 32 microcontroller | stm32f103 3.3v blue pill module | [Link](https://www.aliexpress.com/item/1pcs-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-For-arduino/32719680030.html) | €1.47/$0 |
+  | 32 Microcontroller | stm32f103 3.3v blue pill module | [Link](https://www.aliexpress.com/item/1pcs-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-For-arduino/32719680030.html) | €1.47/$0 |
 
   ## Lasers
   | Item Name | Item Description | Item link | Price |
@@ -186,16 +186,16 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## Sensors
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | sensor| dht22 sensor |  [Link](https://www.aliexpress.com/item/High-Precision-AM2302-DHT22-Digital-Temperature-Humidity-Sensor-Module-For-Uno-R3/32292606044.html) | €2.27/$0 |
-  | sensor | thermocoupler MAX6675 | [Link](https://www.aliexpress.com/item/MAX6675-K-type-Thermocouple-Temperature-Sensor-Temperature-0-800-Degrees-Module-Free-Shipping/1902975176.html) | €2.00/$0 |
-  | gyro-accel sensor | MPU-9250 gyro accel sensor | [Link](https://www.aliexpress.com/item/SPI-IIC-MPU9250-MPU-9250-MPU-9250-9-Axis-Attitude-Gyro-Accelerator-Magnetometer-Sensor-Module-MPU9250/32216818498.html) | €2.03/$0 |
+  | Humidity/Temperature Sensor| DHT22  |  [Link](https://www.aliexpress.com/item/High-Precision-AM2302-DHT22-Digital-Temperature-Humidity-Sensor-Module-For-Uno-R3/32292606044.html) | €2.27/$0 |
+  | Tempurature Sensor | Thermocoupler MAX6675 | [Link](https://www.aliexpress.com/item/MAX6675-K-type-Thermocouple-Temperature-Sensor-Temperature-0-800-Degrees-Module-Free-Shipping/1902975176.html) | €2.00/$0 |
+  | Gyro-Accel Sensor | MPU-9250 Gyro Accelerometer Sensor | [Link](https://www.aliexpress.com/item/SPI-IIC-MPU9250-MPU-9250-MPU-9250-9-Axis-Attitude-Gyro-Accelerator-Magnetometer-Sensor-Module-MPU9250/32216818498.html) | €2.03/$0 |
 
   ## Connectors
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | USB connector | USB male A 10 pcs | [Link](https://www.aliexpress.com/item/New-10pcs-Type-A-Male-USB-4-Pin-Plug-Socket-Connector-With-Black-Plastic-Cover/32708882608.html) | €1.17/$0 |
   | USB connector | USB female A 10 pcs | [Link](https://www.aliexpress.com/item/10Pcs-Type-A-Female-USB-4-Pin-Plug-Socket-Jack-Connector-Plug-Socket-with-Black-Plastic/32742100719.html) | €1.24/$0 |
-  | test cable | dupont headers | [Link](https://www.aliexpress.com/item/310Pcs-2-54mm-Male-Female-Dupont-Wire-Jumper-And-Header-Connector-Housing-Kit/32811413904.html) | €3.38/$0 |
+  | DuPont Headers | Dupont Headers for projects| [Link](https://www.aliexpress.com/item/310Pcs-2-54mm-Male-Female-Dupont-Wire-Jumper-And-Header-Connector-Housing-Kit/32811413904.html) | €3.38/$0 |
 
   ## Cables & Wires
   | Item Name | Item Description | Item link | Price |
@@ -205,15 +205,15 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## Power Modules, Boost Converters & PSU'S 
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | power converter | buck converter 5 pcs | [Link](https://www.aliexpress.com/item/15962-Free-shipping-5pcs-LM2596-LM2596S-ADJ-Power-supply-module-DC-DC-Step-down-module-adjustable/32357345506.html) | €3.25/$0 |
-  | power converter | buck converter 5 pcs | [Link](https://www.aliexpress.com/item/Free-shipping-Mini-Converter-Adjustable-DC-DC-Step-down-Power-Supply-Module-replace-LM2596/32379817867.html) | €2.88/$0 |
-  | power converter | boost converter 3 pcs | [Link](https://www.aliexpress.com/item/15952-Free-Shipping-XL6009-DC-DC-Adjustable-Step-up-buck-boost-Power-Converter-Board-Module/32358330697.html) | €2.83/$0 |
-  | power converter | HV boost converter | [Link](https://www.aliexpress.com/item/NCH6100HV-High-Voltage-DC-Power-Supply-Module-For-Nixie-Tube-Glow-Tube-Magic-Eye-DC-12V/32834903717.html) | €7.71/$0 |
-  | power converter | step up/step down converter | [Link](https://www.aliexpress.com/item/DC-DC-Automatic-Step-Up-Step-Down-Module-3-5V-28V-to-1-25V-26V/32785618120.html) | €2.39/$0 |
-  | power converter | step up/step down converter | [Link](https://www.aliexpress.com/item/Boost-Buck-DC-DC-adjustable-step-up-down-Converter-XL6009-Module-Solar-Voltage/32661520979.html) | €1.16/$0 |
-  | USB test load | 15w usb test load | [Link](https://www.aliexpress.com/item/15W-RD-Industrial-Grade-Electronic-Load-Resistor-USB-Interface-Discharge-Battery-Test-Capacity-with-Fan-Adjustable/32778782212.html) | €3.84/$0 |
-  | power converter | 3 usb power module| [Link](https://www.aliexpress.com/item/3-USB-Mini-Charging-Module-DC-DC-9V-12V-To-5V-8A-Step-Down-Power-Charger/32803562328.html) | €1.64/$0 |
-  | power converter | 3.3v regulator for breadboard | [Link](https://www.aliexpress.com/item/LM1117-AMS1117-4-5-7V-turn-3-3V-DC-DC-Step-down-Power-Supply-Module-For/32588261370.html) | €0.19/$0 |
+  | Step down 3A Voltage Regulator | Step Down Voltage Regulator| [Link](https://www.aliexpress.com/item/15962-Free-shipping-5pcs-LM2596-LM2596S-ADJ-Power-supply-module-DC-DC-Step-down-module-adjustable/32357345506.html) | €3.25/$0 |
+  | DC-DC Step-down converter | DC-DC Step-down converter 5 pcs | [Link](https://www.aliexpress.com/item/Free-shipping-Mini-Converter-Adjustable-DC-DC-Step-down-Power-Supply-Module-replace-LM2596/32379817867.html) | €2.88/$0 |
+  | Step Up Converter | Boost Converter 3 pcs | [Link](https://www.aliexpress.com/item/15952-Free-Shipping-XL6009-DC-DC-Adjustable-Step-up-buck-boost-Power-Converter-Board-Module/32358330697.html) | €2.83/$0 |
+  | High Voltage Boost Converter | HV Boost Converter | [Link](https://www.aliexpress.com/item/NCH6100HV-High-Voltage-DC-Power-Supply-Module-For-Nixie-Tube-Glow-Tube-Magic-Eye-DC-12V/32834903717.html) | €7.71/$0 |
+  | Step Up/Step Down Converter | Step Up/Step Down Converter | [Link](https://www.aliexpress.com/item/DC-DC-Automatic-Step-Up-Step-Down-Module-3-5V-28V-to-1-25V-26V/32785618120.html) | €2.39/$0 |
+  | DC-DC Step Up/Step Down Converter | Step Up/Step Down Converter | [Link](https://www.aliexpress.com/item/Boost-Buck-DC-DC-adjustable-step-up-down-Converter-XL6009-Module-Solar-Voltage/32661520979.html) | €1.16/$0 |
+  | USB test load | 15w USB test load | [Link](https://www.aliexpress.com/item/15W-RD-Industrial-Grade-Electronic-Load-Resistor-USB-Interface-Discharge-Battery-Test-Capacity-with-Fan-Adjustable/32778782212.html) | €3.84/$0 |
+  | 3 USB Charging Module | 3 USB Charging Module | [Link](https://www.aliexpress.com/item/3-USB-Mini-Charging-Module-DC-DC-9V-12V-To-5V-8A-Step-Down-Power-Charger/32803562328.html) | €1.64/$0 |
+  | 3.3V DC Stepdown | 3.3v DC Stepdown | [Link](https://www.aliexpress.com/item/LM1117-AMS1117-4-5-7V-turn-3-3V-DC-DC-Step-down-Power-Supply-Module-For/32588261370.html) | €0.19/$0 |
 
   ## Other Components
   | Item Name | Item Description | Item link | Price |
@@ -226,14 +226,14 @@ Collaboration list below is only for major contributors. Small or one time contr
   | Micro HDMI to HDMI  | Adapter for Pi Zero  | [Link](http://s.click.aliexpress.com/e/fMBI2nI)  |     €0.81/$1    |
   | Micro USB to USB  | Small adapters for Arduino Pro Micro  | [Link](http://s.click.aliexpress.com/e/uVZFQju)  |     €0.48/$0.60    |
   | HDMI to VGA  | For that old VGA monitor you have lying around | [Link](http://s.click.aliexpress.com/e/yvbe62F)  |     €3.49/$4.33    |
-  | usb adapter | micro usb to usb female | [Link](https://www.aliexpress.com/item/2015-Hot-New-Black-USB-2-0-Type-A-Female-to-Micro-USB-B-Female-Adapter/32533611468.html) | €0.72/$0 |
-  | usb adapter | micro usb to usb male | [Link](https://www.aliexpress.com/item/Micro-5pin-USB-Female-To-USB-2-0-A-Male-Plug-USB-Adapter-Connector-Jun12-Professional/32816056652.html) | €0.53/$0 |
-  | adapter | micro sd card adapter | [Link](https://www.aliexpress.com/item/Micro-SD-card-module-TF-card-read-and-write-CARDS-SDIO-SIP-interface-mini-TF-card/32290845541.html) | €0.74/$0 |
+  | USB A Male to Micro USB Female | USB A Male to Micro USB Female | [Link](https://www.aliexpress.com/item/2015-Hot-New-Black-USB-2-0-Type-A-Female-to-Micro-USB-B-Female-Adapter/32533611468.html) | €0.72/$0 |
+  | USB A Male to Micro USB Female | USB A Male to Micro USB Female 5pcs | [Link](https://www.aliexpress.com/item/Micro-5pin-USB-Female-To-USB-2-0-A-Male-Plug-USB-Adapter-Connector-Jun12-Professional/32816056652.html) | €0.53/$0 |
+  | Arduino Micro SD Card Adapter | For when you want to integrate a micro SD card into your project | [Link](https://www.aliexpress.com/item/Micro-SD-card-module-TF-card-read-and-write-CARDS-SDIO-SIP-interface-mini-TF-card/32290845541.html) | €0.74/$0 |
 
   ## Other Electronics
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | usb host | usb host shield | [Link](https://www.aliexpress.com/item/Mini-USB-Host-Shield-2-0-for-Arduino-ADK-SLR-development-tool/32772731644.html) | €4.92/$0 |
+  | Mini USB Host Shield | Mini USB Host Shield | [Link](https://www.aliexpress.com/item/Mini-USB-Host-Shield-2-0-for-Arduino-ADK-SLR-development-tool/32772731644.html) | €4.92/$0 |
   | Electronic Clock Soldering Kit  | Kit to help people learn how to solder.   | [Link](https://www.aliexpress.com/item/1set-newest-4-electronic-clock-pieces-c51-4-bits-electronic-clock-C51-production-suite-DIY-electronics/32802779553.html)  |     €2.36/$0    |
 
 
