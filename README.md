@@ -65,7 +65,7 @@ Collaboration list below is only for major contributors. Small or one time contr
     - [POE Splitters](#poe-splitters)
     - [USB Networking](#usb-networking)
   - [RF Related](#rf-related)
-    - [SDR (Software Defined Radio)](#rf--sdr-software-defined-radio)
+    - [SDR](#sdr)
     - [RF-Adapters](#rf-adapters)
     - [RF-Antennas](#rf-Antennas)
     - [Lora](#Lora)
@@ -327,7 +327,7 @@ Collaboration list below is only for major contributors. Small or one time contr
 
 
 # RF Related 
-  ## SDR (Software Defined Radio
+  ## SDR
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | RTL-SDR  | Allows you to receive signals floating in the air around you and decode them in programs like GQRX  | [Link](http://s.click.aliexpress.com/e/n2Fq7Y7)  |     €0/$8    |
