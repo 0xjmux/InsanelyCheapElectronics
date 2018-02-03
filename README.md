@@ -9,7 +9,7 @@ Feel Free add to it by making a PR.<br />
 - If a price is outdated make a PR.<br />
 - Try to keep it from China :) Other places are welcome as long as they offer worldwide shipping and are cheap. <br />
 - If a link is broken or outdated try to find a newer one or remove it if necessary then make a PR.  <br />
-- When adding prices make sure you add <b>both</b> euro and USD prices. You use google to find one or the other of them. Indicate by adding "+ Delivery" at the end <br />
+- When adding prices make sure you add <b>both</b> euro and USD prices. You use google to find one or the other of them. Indicate a  delivery charge by adding "+ Delivery" at the end <br />
 - Collaboration list below is only for major contributors. Small or one time contributors go in [contributors.md](https://github.com/ScriptKitteh/MyStrangeAddiction/blob/master/contributors.md). <br />
 
 
