@@ -241,14 +241,14 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## Meters & Testers
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | test tool | QC2.0/3.0 usb voltage selector for testing | [Link](https://www.aliexpress.com/item/USB-voltage-apparatus-5V-9V-12V-15V/32604676697.html) | €3.19/$0 |
+  | USB Tester | QC2.0/3.0 USB voltage selector for testing | [Link](https://www.aliexpress.com/item/USB-voltage-apparatus-5V-9V-12V-15V/32604676697.html) | €3.19/$0 |
   | USB power meter | USB power meter | [Link](https://www.aliexpress.com/item/Mini-USB-Voltage-Meter-Current-Voltage-Tester-Digital-Dispay-Charger-Capacity-Tester/32762613223.html) | €4.56/$0 |
   | LCR meter  | HoldPeak HP-4070L Digital Capacitance Meter Inductance Meter LCR Meter  | [Link](https://www.aliexpress.com/item/HoldPeak-HP-4070L-Digital-Capacitance-Meter-Inductance-Meter-LCR-Meter/32786178859.html)  |     €14.22/$0    |
 
   ## Test Cables, Alligator Clips etc
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Alligator Clips | alligator clips set of 10 piece | [Link](https://www.aliexpress.com/item/New-10Pcs-lot-Power-Test-Testing-Connector-Alligator-Clip-Probe-Clamp-Length-28mm-2-8CM/32357772850.html) | €0.59/$0 |
+  | Alligator Clips | Alligator Clips set of 10 piece | [Link](https://www.aliexpress.com/item/New-10Pcs-lot-Power-Test-Testing-Connector-Alligator-Clip-Probe-Clamp-Length-28mm-2-8CM/32357772850.html) | €0.59/$0 |
 
 
   ## Soldering
@@ -260,8 +260,8 @@ Collaboration list below is only for major contributors. Small or one time contr
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | Mini Breadboard  | Small breadboard for projects  | [Link](http://s.click.aliexpress.com/e/mia2bun)  |     €0/$0.42    |
-  | Jumper Wires  | 3 types dupont wire 20cm | [Link](https://www.aliexpress.com/item/120pcs-20cm-Dupont-line-120pcs-20cm-male-to-male-male-to-female-and-female-to-female/32256288997.html) | €1.95/$0 |
-  | Jumper Wires | 3 types dupont wire 10cm | [Link](https://www.aliexpress.com/item/Dupont-line-120pcs-10cm-male-to-male-male-to-female-and-female-to-female-jumper/32328010671.html) | €1.57/$0 |
+  | Jumper Wires  | 3 types Dupont wire 20cm | [Link](https://www.aliexpress.com/item/120pcs-20cm-Dupont-line-120pcs-20cm-male-to-male-male-to-female-and-female-to-female/32256288997.html) | €1.95/$0 |
+  | Jumper Wires | 3 types Dupont wire 10cm | [Link](https://www.aliexpress.com/item/Dupont-line-120pcs-10cm-male-to-male-male-to-female-and-female-to-female-jumper/32328010671.html) | €1.57/$0 |
 
   ## Tool Kits
   | Item Name | Item Description | Item link | Price |
@@ -271,18 +271,18 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## Networking Tools
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | poe tester | NF-440PT 802.3AF/AT poe tester | [link](https://www.aliexpress.com/item/NF-400PT-The-802-3af-802-at-PoE-Power-over-Ethernet-Tester-connected-to-an-RJ45/32807663732.html) | €5.95/$0 |
+  | POE Tester | NF-440PT 802.3AF/AT POE tester | [link](https://www.aliexpress.com/item/NF-400PT-The-802-3af-802-at-PoE-Power-over-Ethernet-Tester-connected-to-an-RJ45/32807663732.html) | €5.95/$0 |
 
   ## Hand tools
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Crimptool  | dupont crimptool  | [Link](https://www.aliexpress.com/item/SN-28B-MINI-EUROP-STYLE-crimping-tool-crimping-plier-0-1-1mm2-multi-tool-tools-hands/1244923537.html)  |     €3.91/$0    |
-  | tweezers  | 6pcs Metal Anti-static Tweezers  | [Link](https://www.aliexpress.com/item/6pcs-Metal-Resists-Corrosion-Safe-Anti-static-Tweezers-Maintenance-Tools-Value-Packs-Anti-static-Anti-corrosion/32836866776.html)  |     €1.95/$0    |
+  | Crimptool  | Dupont crimptool  | [Link](https://www.aliexpress.com/item/SN-28B-MINI-EUROP-STYLE-crimping-tool-crimping-plier-0-1-1mm2-multi-tool-tools-hands/1244923537.html)  |     €3.91/$0    |
+  | Tweezers  | 6pcs Metal Anti-static Tweezers  | [Link](https://www.aliexpress.com/item/6pcs-Metal-Resists-Corrosion-Safe-Anti-static-Tweezers-Maintenance-Tools-Value-Packs-Anti-static-Anti-corrosion/32836866776.html)  |     €1.95/$0    |
 
   ## Programmers
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | programming tool | usb byte blaster | [Link](https://www.aliexpress.com/item/altera-Mini-Usb-Blaster-Cable-For-CPLD-FPGA-NIOS-JTAG-Altera-Programmer/2038559613.html) | €2.26/$0 |
+  | USB Byte Blaster | USB Programmer for JTAG CPLD FPGA and NIOS | [Link](https://www.aliexpress.com/item/altera-Mini-Usb-Blaster-Cable-For-CPLD-FPGA-NIOS-JTAG-Altera-Programmer/2038559613.html) | €2.26/$0 |
 
   ## Storage
   | Item Name | Item Description | Item link | Price |
@@ -293,8 +293,8 @@ Collaboration list below is only for major contributors. Small or one time contr
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | Soldering/Bench Mat  | For when you need a place to work on your desk. Silicon, claims to be heat resistant.  | [Link](https://www.aliexpress.com/item/S-160-45x30cm-Heat-Insulation-Silicone-Pad-Desk-Mat-Maintenance-Platform-For-BGA-Soldering-Repair-Station/32809068012.html)  |     €15.17/$18    |
-  | anti static mat | for working anti static with electronics | [link](https://www.aliexpress.com/item/1pc-New-Black-Durable-Desktop-Anti-Static-Mat-Silicone-ESD-Grounding-Mats-700-500mm-Cord-for/32817716140.html) | €16.76/$0 |
-  | Measurer Tool | 0-36 Round AWG Wire Thickness Ruler Gauge   | [Link](https://www.aliexpress.com/item/High-Quality-Stainless-Steel-0-36-Round-AWG-Wire-Thickness-Ruler-Gauge-Diameter-Measurer-Tool-stainless/32829697743.html)  |     €3.44/$0    |
+  | Anti-Static Mat | For working on Electronics, helps to ground your body | [link](https://www.aliexpress.com/item/1pc-New-Black-Durable-Desktop-Anti-Static-Mat-Silicone-ESD-Grounding-Mats-700-500mm-Cord-for/32817716140.html) | €16.76/$0 |
+  | Measuring Tool | 0-36 Round AWG Wire Thickness Ruler Gauge   | [Link](https://www.aliexpress.com/item/High-Quality-Stainless-Steel-0-36-Round-AWG-Wire-Thickness-Ruler-Gauge-Diameter-Measurer-Tool-stainless/32829697743.html)  |     €3.44/$0    |
 
 
 
@@ -317,7 +317,7 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## POE Splitters
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | poe splitter | poe splitter 5v 2a output micro usb | [link](https://www.aliexpress.com/item/Active-PoE-Splitter-Power-Over-Ethernet-48V-to-5V-2-4A-Micro-USB-4-Raspberry-Pi/32800364355.html) | €5.68/$0 |
+  | POE Splitter | POE Splitter 5V 2A Output Micro USB | [link](https://www.aliexpress.com/item/Active-PoE-Splitter-Power-Over-Ethernet-48V-to-5V-2-4A-Micro-USB-4-Raspberry-Pi/32800364355.html) | €5.68/$0 |
 
   ## USB Networking
   | Item Name | Item Description | Item link | Price |
@@ -336,6 +336,7 @@ Collaboration list below is only for major contributors. Small or one time contr
   ## RF-Adapters
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------| 
+<<<<<<< HEAD
   | IPEX To RPSMA | 5 pcs IPEX To RPSMA 17cm | [link](https://www.aliexpress.com/item/5pcs-kit-Extension-Cord-UFL-to-RP-SMA-Connector-Antenna-WiFi-Pigtail-Cable-IPX-to-RP/32790742583.html) | €2.92/$0 |
   | IPEX Connector | IPEX Connector 20 pcs | [link](https://www.aliexpress.com/item/Hot-sale-20PCS-UFL-seat-IPEX-IPX-connector-U-FL-R-SMT-RF-coaxial-connectors-Antenna/32833564737.html) | €1.16/$0 |
   | SMA Male To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/Sale-Mini-Jack-Plug-1Pc-Adapter-RP-SMA-Male-Jack-To-SMA-Male-Plug-RF-Connector/32532566184.html) |     €1.35/$0    |
@@ -346,6 +347,10 @@ Collaboration list below is only for major contributors. Small or one time contr
   | SMA Female To SMA Female  | SMA Adapter  | [Link](https://www.aliexpress.com/item/SMA-Female-Jack-switch-Female-Jack-RF-Coax-Adapter-convertor-Straight-Textured-disc-Goldplated-NEW-wholesale/32451962659.html) |     €0.86/$0    |
   | RPSMA Male To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/RP-SMA-Male-Plug-switch-RP-SMA-Male-Plug-RF-Coax-Adapter-convertor-Straight-goldplated-NEW/32325461509.html) |     €0.86/$0    |
   | RPSMA Female To RPSMA Male  | SMA Adapter  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Female-Jack-switch-RP-SMA-Female-Jack-RF-Coax-Adapter-convertor-Straight-Goldplated/32456879987.html) |     €0.68/$0    |
+=======
+  | IPEX to RPSMA | 5 pcs IPEX to RPSMA 17cm | [link](https://www.aliexpress.com/item/5pcs-kit-Extension-Cord-UFL-to-RP-SMA-Connector-Antenna-WiFi-Pigtail-Cable-IPX-to-RP/32790742583.html) | €2.92/$0 |
+  | IPEX Connector | IPEX Connector 20 pcs | [link](https://www.aliexpress.com/item/Hot-sale-20PCS-UFL-seat-IPEX-IPX-connector-U-FL-R-SMT-RF-coaxial-connectors-Antenna/32833564737.html) | €1.16/$0 |
+>>>>>>> 1fb918b669c527c26b6e2e66303781caef97b5b9
 
   ## RF Antennas
   | Item Name | Item Description | Item link | Price |
@@ -356,9 +361,15 @@ Collaboration list below is only for major contributors. Small or one time contr
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | RPSMA PCB Edge Connector | RPSMA PCB Edge Connector 10 pcs | [Link](https://www.aliexpress.com/item/The-factory-sales-10-PCS-RP-SMA-Female-PCB-Edge-Mount-RF-Solder-Adapters-0-062/32584001055.html)  |     €1.95/$0    |
+<<<<<<< HEAD
   | 868MHz 5dBi RPSMA Antenna | 868mhz 5dBi RPSMA Antenna  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Male-868-MHz-5dBi-Wireless-Antenna-Router-Antenna-15cm-RP-SMA-Female-to/32833645680.html)  |     €1.34/$0    |
   | LORA RFM95 868MHz | LORA RFM95 868MHz 2pcs  | [Link](https://www.aliexpress.com/item/RFM95RFM96-100mW-DSSS-spread-spectrum-wireless-transceiver-module-SPI-SX1278-SX1276-SMD/32245859329.html)  |     €9.09/$0    |
   | LORA Module Shield | LORA Module Shield  | [Link](https://www.aliexpress.com/item/Lora-Shield-for-ESPea-development-board/32828506739.html)  |     €0.82/$0    |
+=======
+  | 868mhz 5dbi RPSMA Antenna | 868mhz 5dbi RPSMA Antenna  | [Link](https://www.aliexpress.com/item/NEW-RP-SMA-Male-868-MHz-5dBi-Wireless-Antenna-Router-Antenna-15cm-RP-SMA-Female-to/32833645680.html)  |     €1.34/$0    |
+  | LORA RFM95 868mhz | LORA RFM95 868mhz 2pcs  | [Link](https://www.aliexpress.com/item/RFM95RFM96-100mW-DSSS-spread-spectrum-wireless-transceiver-module-SPI-SX1278-SX1276-SMD/32245859329.html)  |     €9.09/$0    |
+  | LORA module shield | LORA module shield  | [Link](https://www.aliexpress.com/item/Lora-Shield-for-ESPea-development-board/32828506739.html)  |     €0.82/$0    |
+>>>>>>> 1fb918b669c527c26b6e2e66303781caef97b5b9
 
 
   ## RF Modules
