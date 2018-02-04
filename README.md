@@ -13,10 +13,11 @@ Feel Free add to it by making a PR.<br />
 
 
 #### This is a collaboration between:
- - [@ScriptKitteh](https://github.com/ScriptKitteh)
+ - [@KittehWare](https://github.com/KittehWare)
  - [@abdullahseba](https://github.com/abdullahseba)
  - [@digitaldisarray](https://github.com/digitaldisarray) <!-- :D -->
  - [@killergeek](https://github.com/killergeek)
+ - [@Spacehuhn](https://github.com/spacehuhn)
 <!--(add your username here my dudes)-->
 
 ## Table of Contents
