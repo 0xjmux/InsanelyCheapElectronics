@@ -144,12 +144,12 @@ Feel Free add to it by making a PR.<br />
   ## Relays
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | 5V Relay  | Connnect this to projects with a higher voltage   | [Link](https://www.aliexpress.com/item/5V-Low-Level-Trigger-One-1-Channel-Relay-Module-DC-AC-220V-Interface-Relay-Board-Shield/32801667044.html)  |     €0/$0.53    |
+  | 5V Relay  | Connnect this to projects with a higher voltage   | [Link](https://www.aliexpress.com/item/5V-Low-Level-Trigger-One-1-Channel-Relay-Module-DC-AC-220V-Interface-Relay-Board-Shield/32801667044.html)  |     €0.43/$0.53    |
 
   ## Microcontrollers
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | 32 Microcontroller | stm32f103 3.3v blue pill module | [Link](https://www.aliexpress.com/item/1pcs-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-For-arduino/32719680030.html) | €1.47/$0 |
+  | 32 Microcontroller | stm32f103 3.3v blue pill module | [Link](https://www.aliexpress.com/item/1pcs-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-For-arduino/32719680030.html) | €1.47/$1.83 |
 
   ## Lasers
   | Item Name | Item Description | Item link | Price |
@@ -164,16 +164,16 @@ Feel Free add to it by making a PR.<br />
   ## LED's
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | LED | SMD LED 0603 | [Link](http://s.click.aliexpress.com/e/NNJAiII) | €1.97/$0 |
-  | LED | SMD LED 0805 | [Link](http://s.click.aliexpress.com/e/RbeYfim) | €1.87/$0 |
-  | RGB LED | WS2812B LED 30 pcs | [Link](http://s.click.aliexpress.com/e/7EEMVVN) | €3.01/$0 |
-  | RGB LED | APA102 LED Strip Black 1M 30 IP30 | [Link](http://s.click.aliexpress.com/e/eEQnIMF) | €10.46/$0 |
+  | LED | SMD LED 0603 | [Link](http://s.click.aliexpress.com/e/NNJAiII) | €1.97/$2.45 |
+  | LED | SMD LED 0805 | [Link](http://s.click.aliexpress.com/e/RbeYfim) | €1.87/$2.33 |
+  | RGB LED | WS2812B LED 30 pcs | [Link](http://s.click.aliexpress.com/e/7EEMVVN) | €3.01/$3.75 |
+  | RGB LED | APA102 LED Strip Black 1M 30 IP30 | [Link](http://s.click.aliexpress.com/e/eEQnIMF) | €10.46/$13.03 |
 
   ## Passive Kits / Sets
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Resistor | resistor kit 0603 | [Link](http://s.click.aliexpress.com/e/zFy3jay) | €1.16/$0 |
-  | Resistor | resistor kit 0805 | [Link](http://s.click.aliexpress.com/e/Yj6imEM) | €1.61/$0 |
+  | Resistor | resistor kit 0603 | [Link](http://s.click.aliexpress.com/e/zFy3jay) | €1.16/$1.45 |
+  | Resistor | resistor kit 0805 | [Link](http://s.click.aliexpress.com/e/Yj6imEM) | €1.61/$2.01 |
 
   ## IC's
   | Item Name | Item Description | Item link | Price |
@@ -183,18 +183,18 @@ Feel Free add to it by making a PR.<br />
   ## Handy Modules
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Level Converter | TXS0108E 3.3v<>5v converter | [Link](https://www.aliexpress.com/item/Free-shipping-TXS0108E-high-speed-full-duplex-8-channel-level-conversion-module-bi-directional-voltage-converter/32403775232.html) | €0.60/$0 |
-  | I2C HD44780  Adapter | I2C HD44780 display driver | [Link](http://s.click.aliexpress.com/e/EMbQzBE) | €1.58/$0 |
-  | CAN Driver | 3.3v can driver SH65HVD230 | [Link](https://www.aliexpress.com/item/SN65HVD230-CAN-bus-transceiver-communication-module-for-arduino/32688103863.html) | €1.14/$0 |
-  | CAN Module | spi can module | [Link](https://www.aliexpress.com/item/Free-shipping-MCP2515-CAN-Bus-Module-TJA1050-receiver-SPI-For-51-MCU-ARM-controller/32246703027.html) | €1.04/$0 |
-  | USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link](https://www.aliexpress.com/item/1PCS-CP2102-USB-2-0-to-TTL-UART-Module-6Pin-Serial-Converter-STC-Replace-FT232/32717057832.html)  |     €0.87/$0    |
+  | Level Converter | TXS0108E 3.3v<>5v converter | [Link](https://www.aliexpress.com/item/Free-shipping-TXS0108E-high-speed-full-duplex-8-channel-level-conversion-module-bi-directional-voltage-converter/32403775232.html) | €0.60/$0.75 |
+  | I2C HD44780  Adapter | I2C HD44780 display driver | [Link](http://s.click.aliexpress.com/e/EMbQzBE) | €1.58/$1.97 |
+  | CAN Driver | 3.3v can driver SH65HVD230 | [Link](https://www.aliexpress.com/item/SN65HVD230-CAN-bus-transceiver-communication-module-for-arduino/32688103863.html) | €1.14/$1.42 |
+  | CAN Module | spi can module | [Link](https://www.aliexpress.com/item/Free-shipping-MCP2515-CAN-Bus-Module-TJA1050-receiver-SPI-For-51-MCU-ARM-controller/32246703027.html) | €1.04/$1.30 |
+  | USB to Serial | Allows you to connect your computer to serial devices for debugging  | [Link](https://www.aliexpress.com/item/1PCS-CP2102-USB-2-0-to-TTL-UART-Module-6Pin-Serial-Converter-STC-Replace-FT232/32717057832.html)  |     €0.87/$1.08    |
 
   ## Sensors
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Humidity/Temperature Sensor| DHT22  |  [Link](https://www.aliexpress.com/item/High-Precision-AM2302-DHT22-Digital-Temperature-Humidity-Sensor-Module-For-Uno-R3/32292606044.html) | €2.27/$0 |
-  | Tempurature Sensor | Thermocoupler MAX6675 | [Link](https://www.aliexpress.com/item/MAX6675-K-type-Thermocouple-Temperature-Sensor-Temperature-0-800-Degrees-Module-Free-Shipping/1902975176.html) | €2.00/$0 |
-  | Gyro-Accel Sensor | MPU-9250 Gyro Accelerometer Sensor | [Link](https://www.aliexpress.com/item/SPI-IIC-MPU9250-MPU-9250-MPU-9250-9-Axis-Attitude-Gyro-Accelerator-Magnetometer-Sensor-Module-MPU9250/32216818498.html) | €2.03/$0 |
+  | Humidity/Temperature Sensor| DHT22  |  [Link](https://www.aliexpress.com/item/High-Precision-AM2302-DHT22-Digital-Temperature-Humidity-Sensor-Module-For-Uno-R3/32292606044.html) | €2.27/$2.83 |
+  | Tempurature Sensor | Thermocoupler MAX6675 | [Link](https://www.aliexpress.com/item/MAX6675-K-type-Thermocouple-Temperature-Sensor-Temperature-0-800-Degrees-Module-Free-Shipping/1902975176.html) | €2.00/$2.49 |
+  | Gyro-Accel Sensor | MPU-9250 Gyro Accelerometer Sensor | [Link](https://www.aliexpress.com/item/SPI-IIC-MPU9250-MPU-9250-MPU-9250-9-Axis-Attitude-Gyro-Accelerator-Magnetometer-Sensor-Module-MPU9250/32216818498.html) | €2.03/$2.53 |
 
   ## Connectors
   | Item Name | Item Description | Item link | Price |
