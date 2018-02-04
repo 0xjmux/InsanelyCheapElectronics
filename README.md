@@ -81,15 +81,15 @@ Feel Free add to it by making a PR.<br />
   ## Arduino Compatibles
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Arduino Pro Micro 5V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/Free-Shipping-New-Pro-Micro-for-arduino-ATmega32U4-5V-16MHz-Module-with-2-row-pin-header/2021979132.html)  |     €3.47/$0    |
-  | Arduino Pro Micro 3.3V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/2pcs-Leonardo-Pro-Micro-ATmega32U4-16MHz-3-3V-Replace-ATmega328-Pro-Mini/32661332411.html)  |     €5.28/$0    |
+  | Arduino Pro Micro 5V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/Free-Shipping-New-Pro-Micro-for-arduino-ATmega32U4-5V-16MHz-Module-with-2-row-pin-header/2021979132.html)  |     €3.47/$4.27    |
+  | Arduino Pro Micro 3.3V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/2pcs-Leonardo-Pro-Micro-ATmega32U4-16MHz-3-3V-Replace-ATmega328-Pro-Mini/32661332411.html)  |     €5.28/$6.49 + Delivery |
   | Arduino Nano  | For the Ethernet shield  | [Link](http://s.click.aliexpress.com/e/miYV7yJ)  |     €2.22/$2.75    |
-  | Digispark  | Small arduino like platform, keyboard injection capable  | [Link](https://www.aliexpress.com/item/1Pcs-lot-Digispark-Kickstarter-Common-Micro-USB-Development-Board-For-ATTINY85/32826241497.html)  |     €0.87/$0    |
+  | Digispark  | Small arduino like platform, keyboard injection capable  | [Link](https://www.aliexpress.com/item/1pcs-Digispark-kickstarter-development-board-ATTINY85-module-for-Arduino-usb/32837195109.html?ws_ab_test=searchweb0_0,searchweb201602_3_10065_10344_10130_10068_10547_10342_10343_10340_10341_10084_10083_10618_10139_10307_10301_5722316_10313_10059_10534_100031_10103_441_10624_442_10623_10622_10621_10620_10142,searchweb201603_36,ppcSwitch_7&algo_expid=9783d333-f7c6-4f30-8295-b880b289b15b-2&algo_pvid=9783d333-f7c6-4f30-8295-b880b289b15b&transAbTest=ae803_5&priceBeautifyAB=0)  |     €1.23/$1.53 + Delivery |
 
   ## Shields
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @Spacehuhn's arp poisioning project | [Link](https://www.aliexpress.com/item/Mini-ENC28J60-Webserver-module-Ethernet-Shield-board-for-Arduino-Nano-v3-0/32648804850.html)  |     €3.37/$0    |
+  | Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @Spacehuhn's arp poisioning project | [Link](https://www.aliexpress.com/item/Mini-ENC28J60-Webserver-module-Ethernet-Shield-board-for-Arduino-Nano-v3-0/32648804850.html)  |     €3.37/$4.14 + Delivery    |
   | Arduino GPS GSM GPRS Shield | For projects where you need to involve SMS or location tracking | [Link](http://s.click.aliexpress.com/e/fUJ6YvZ) | $12.27 |
 
 # WiFi / ESP8266
