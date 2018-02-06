@@ -20,6 +20,7 @@ Feel Free add to it by making a PR.<br />
 <!--(add your username here my dudes)-->
 
 ## Table of Contents
+  - [Starter Kits](#starter-kits)
   - [Arduinos](#arduino)
     - [Arduino Compatibles](#arduino-compitables)
     - [Shields](#shields)
@@ -76,7 +77,13 @@ Feel Free add to it by making a PR.<br />
     - [UHF / VHF & Ham Radios](#uhf--vhf--ham-radios)
     
 
-    
+# Starter Kits
+| Item Name | Item Description | Item link | Price |
+| ------------- | ------------- | ------------- | -------------|
+| Keyestudio Learning Kit | A microcontroller starter kit. | [Link](https://www.aliexpress.com/item/Keyestudio-Updated-Maker-learning-kit-Starter-kit-for-arduinos-starter-kit-User-Manual-UNOR3-1602LCD-servo/32835924034.html?spm=2114.search0104.3.1.20bf7624JQG86Z&ws_ab_test=searchweb0_0,searchweb201602_3_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10304_10307_10301_5722316_10313_10059_10534_100031_10103_441_10624_442_10623_10622_10621_10620_10142,searchweb201603_1,ppcSwitch_7&algo_expid=d755cf98-fd20-40f7-ad9c-7e1ea2a5f1d9-0&algo_pvid=d755cf98-fd20-40f7-ad9c-7e1ea2a5f1d9&transAbTest=ae803_5&priceBeautifyAB=0)  |     €36.12/$45.00    |
+| Arduino Starter Kit | A starter kit for arduino uno micro controller. | [Link](https://www.aliexpress.com/item/Arduino-Starter-Kit-for-arduino-Uno-R3-9G-Server-arduino-sensor-1602-LCD-jumper-Wire-UNO/32808269674.html?spm=2114.search0104.3.8.20bf7624JQG86Z&ws_ab_test=searchweb0_0,searchweb201602_3_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10304_10307_10301_5722316_10313_10059_10534_100031_10103_441_10624_442_10623_10622_10621_10620_10142,searchweb201603_1,ppcSwitch_7&algo_expid=d755cf98-fd20-40f7-ad9c-7e1ea2a5f1d9-1&algo_pvid=d755cf98-fd20-40f7-ad9c-7e1ea2a5f1d9&transAbTest=ae803_5&priceBeautifyAB=0)  |     €21.34/$26.59    |
+| Extra Component Case | A cheap package with some extra components. | [Link](https://www.aliexpress.com/item/Starter-Kit-for-Arduino-Resistor-LED-Capacitor-Jumper-Wires-Breadboard-resistor-Kit-with-Retail-Box/32774046149.html?spm=2114.search0104.3.15.20bf7624JQG86Z&ws_ab_test=searchweb0_0,searchweb201602_3_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10304_10307_10301_5722316_10313_10059_10534_100031_10103_441_10624_442_10623_10622_10621_10620_10142,searchweb201603_1,ppcSwitch_7&algo_expid=d755cf98-fd20-40f7-ad9c-7e1ea2a5f1d9-2&algo_pvid=d755cf98-fd20-40f7-ad9c-7e1ea2a5f1d9&transAbTest=ae803_5&priceBeautifyAB=0)  |     €6.25/$7.79    |
+
 # Arduinos
   ## Arduino Compatibles
   | Item Name | Item Description | Item link | Price |
