@@ -9,7 +9,7 @@ Feel Free add to it by making a PR.<br />
 - If a price is outdated make a PR.<br />
 - If a link is broken or outdated try to find a newer one or remove it if necessary then make a PR.  <br />
 - Make sure you add prices in <b>both</b> Euros and USD. You use google to find one or the other of them. Indicate a  delivery charge by adding "+ Delivery" at the end. <br />
-- Collaboration list below is only for major contributors. (https://github.com/ScriptKitteh/MyStrangeAddiction/blob/master/contributors.md). <br /> 
+- Collaboration list below is only for major contributors.  <br /> 
 
 
 #### This is a collaboration between:
