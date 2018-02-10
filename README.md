@@ -13,7 +13,7 @@ Feel Free add to it by making a PR.<br />
 
 
 #### This is a collaboration between:
- - [@KittehWare](https://github.com/KittehWare)
+ - [@PwnKitteh](https://github.com/PwnKitteh)
  - [@abdullahseba](https://github.com/abdullahseba)
  - [@digitaldisarray](https://github.com/digitaldisarray) <!-- :D -->
  - [@killergeek](https://github.com/killergeek)
@@ -97,7 +97,7 @@ Feel Free add to it by making a PR.<br />
   ## Shields
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @Spacehuhn's arp poisioning project | [Link](https://www.aliexpress.com/item/Mini-ENC28J60-Webserver-module-Ethernet-Shield-board-for-Arduino-Nano-v3-0/32648804850.html)  |     €3.37/$4.14 + Delivery    |
+  | Arduino Nano Ethernet Shield  | For the Arduino Nano; can be used for @spacehuhn's arp poisioning project | [Link](https://www.aliexpress.com/item/Mini-ENC28J60-Webserver-module-Ethernet-Shield-board-for-Arduino-Nano-v3-0/32648804850.html)  |     €3.37/$4.14 + Delivery    |
   | Arduino GPS GSM GPRS Shield | For projects where you need to involve SMS or location tracking | [Link](http://s.click.aliexpress.com/e/fUJ6YvZ) | $12.27 |
 
 # WiFi / ESP8266
@@ -128,7 +128,7 @@ Feel Free add to it by making a PR.<br />
   ## SBC's
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Orange Pi Zero  | Mini PC, like pi zero, but with USB and Ethernet ports  | [Link](https://www.aliexpress.com/item/New-Orange-Pi-Zero-H2-Quad-Core-Open-source-development-board-beyond-Raspberry-Pi/32760774493.html)  |     €6.83/$8.49    |
+  | Orange Pi Zero  | Mini PC, like Pi Zero, but with USB and Ethernet ports  | [Link](https://www.aliexpress.com/item/New-Orange-Pi-Zero-H2-Quad-Core-Open-source-development-board-beyond-Raspberry-Pi/32760774493.html)  |     €6.83/$8.49    |
 
   ## Cases
   | Item Name | Item Description | Item link | Price |
