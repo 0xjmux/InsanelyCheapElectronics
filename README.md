@@ -106,6 +106,7 @@ Feel Free add to it by making a PR.<br />
   | ------------- | ------------- | ------------- | -------------|
   | NodeMCU  | Look at @Spacehuhn's deauther project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
   | NodeMCU-07 | Modified NodeMCU with ESP-07 and LiPo charger | [Link](http://s.click.aliexpress.com/e/VbIa6qJ) |     €8.13/$10.13 + Delivery   |
+  | Wemos D1 Mini | A great quality D1 Mini on Ebay | [Link](https://www.ebay.com/itm/D1-Mini-NodeMcu-4M-bytes-Lua-WIFI-Development-Board-ESP8266-by-WeMos/182035363514) |      €2.69/$3.29 + Delivery   |
   | WiFi Deauther | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](https://www.aliexpress.com/item/WiFi-deauther-V3-ESP8266-ESP-07-with-2dBi-antenna-Powerbank-Flashlight-2A-Input-2A-output-wireless/32838970615.html) |     €12.19/$15.19 + Delivery    |
   | WiFi Deauther OLED | ESP8266 + antenna + 18650 connector + OLED + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](http://s.click.aliexpress.com/e/iY7uvRv) |     €24.37/$30.37 + Delivery    |
   | PacketMonitor | ESP8266 + antenna + 1.3" OLED + preflashed [PacketMonitor](https://github.com/spacehuhn/PacketMonitor) software | [Link](http://s.click.aliexpress.com/e/Zv37MBu) |     €10.56/$13.16 + Delivery     |
