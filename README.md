@@ -146,9 +146,9 @@ Feel Free add to it by making a PR.<br />
   ## Switches & Buttons  
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Mushroom Switch  | Big Red button for your big red button needs  | [Link](http://s.click.aliexpress.com/e/R7iEujm)  |     €0/$0    |
-  | Key Switch  | Key switch for when you need to lock that circut  | [Link](https://www.aliexpress.com/item/Key-Switch-ON-OFF-Lock-Switch-KS-01/32490689557.html)  |     €0/$0    |
-  | Simple Toggle  | Just a basic toggle.   | [Link]()  |     €0/$0    |
+  | Mushroom Switch  | Big Red button for your big red button needs  | [Link](http://s.click.aliexpress.com/e/R7iEujm)  |     €3.49/$4.30    |
+  | Key Switch  | Key switch for when you need to lock that circut  | [Link](https://www.aliexpress.com/item/Key-Switch-ON-OFF-Lock-Switch-KS-01/32490689557.html)  |     €1.01/$1.24    |
+  | Simple Toggle  | Just a basic toggle.   | [Link](https://www.aliexpress.com/item/Promotion-5-Pcs-AC-ON-OFF-SPDT-2-Position-Latching-Toggle-Switch-6A-125V/32813324272.html?spm=2114)  |     €0.77/$0.95    |
 
   ## Relays
   | Item Name | Item Description | Item link | Price |
