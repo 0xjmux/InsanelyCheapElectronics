@@ -3,7 +3,7 @@
 This repo is a work in progress. Me and a bunch of my discord friends on [Spacehuhn's discord server](https://discordapp.com/invite/7Ay378G) all like to purchase cheap electronics from China for projects, so we figured it'd be good to make a list of stuff that we have bought for those that are just starting out and want ideas/parts for projects.<br />
 All prices in Euro and USD.<br />
 
-Feel Free add to it by making a PR.<br />
+Feel free add to it by making a PR.<br />
 #### Contributing Rules:
 - Issues are only for category requests, reporting or questions.<br />
 - If a price is outdated make a PR.<br />
