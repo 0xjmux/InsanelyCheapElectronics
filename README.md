@@ -373,7 +373,7 @@ Feel free add to it by making a PR.<br />
   | RPSMA PCB Edge Connector | RPSMA PCB Edge Connector 10 pcs | [Link](http://s.click.aliexpress.com/e/bAEUjun)  |     €1.95/$0    |
   | 868MHz 5dBi RPSMA Antenna | 868mhz 5dBi RPSMA Antenna  | [Link](http://s.click.aliexpress.com/e/NJAqfmA)  |     €1.34/$0    |
   | LORA RFM95 868MHz | LORA RFM95 868MHz 2pcs  | [Link](https://www.aliexpress.com/item/RFM95RFM96-100mW-DSSS-spread-spectrum-wireless-transceiver-module-SPI-SX1278-SX1276-SMD/32245859329.html)  |     €9.09/$0    |
-  | LORA Module Shield | LORA Module Shield  | [Link](http://s.click.aliexpress.com/e/mMjIYNr)  |     €0.82/$0    |
+  | LORA Module Shield | LORA Module Shield (dont buy, pcb is wrong)  | [Link](http://s.click.aliexpress.com/e/mMjIYNr)  |     €0.82/$0    |
 
 
   ## RF Modules
