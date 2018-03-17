@@ -22,10 +22,10 @@ Feel free add to it by making a PR.<br />
 ## Table of Contents
   - [Starter Kits](#starter-kits)
   - [Arduinos](#arduino)
-    - [Arduino Compatibles](#arduino-compitables)
+    - [Arduino Compatibles](#arduino-compatibles)
     - [Shields](#shields)
   - [WiFi / ESP8266](#wifi--esp8266)
-    - [Deauther 2.0](#deauther-2.0)
+    - [Deauther 2.0](#deauther-20)
     - [ESP Modules](#esp-modules)
     - [Wifi Antennas](#wifi-antennas)
     - [Wifi Adapters](#wifi-adapters)
