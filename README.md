@@ -25,6 +25,7 @@ Feel free add to it by making a PR.<br />
     - [Arduino Compatibles](#arduino-compitables)
     - [Shields](#shields)
   - [WiFi / ESP8266](#wifi--esp8266)
+    - [Deauther 2.0](#deauther-2.0)
     - [ESP Modules](#esp-modules)
     - [Wifi Antennas](#wifi-antennas)
     - [Wifi Adapters](#wifi-adapters)
@@ -101,6 +102,14 @@ Feel free add to it by making a PR.<br />
   | Arduino GPS GSM GPRS Shield | For projects where you need to involve SMS or location tracking | [Link](http://s.click.aliexpress.com/e/fUJ6YvZ) | $12.27 |
 
 # WiFi / ESP8266
+
+  ## Deauther 2.0
+  | Item Name | Item Description | Item link | Price |
+  | ------------- | ------------- | ------------- | -------------|
+  | NodeMCU  | The main board that everything runs on (you only need this to run deauther 2.0), the rest of the stuff is just add-ons  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
+  | OLED Display |For if you want to add a display to the deauther (.96 inch) | [Link](http://s.click.aliexpress.com/e/rbIIYZb) | $2.84 |
+  | OLED Display | To add a display to the deauther (1.3 inch) | [Link](http://s.click.aliexpress.com/e/vZVfEEY) | $3.82 |
+
   ## ESP Modules
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
@@ -385,8 +394,7 @@ Feel free add to it by making a PR.<br />
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | GPS Antenna  | GPS Antenna for RTL-SDR or Arduino board | [Link](http://s.click.aliexpress.com/e/baqNN37)  |     €0/$8    |
-  | GPS | GPS NEO-6 Serial 3.3v (Note: says its a ublox but is actual a MTK3339) | [Link](http://s.click.aliexpress.com/e/RJiMbey) | €3.74/$0 |
-  | GPS | GPS UBX-M8030-KT chipset | [link](https://www.aliexpress.com/item/UAV-Ublox-Neo-M8N-chip-UART-Smart-GPS-module-gnss-antenna-dual-GLONASS-receiver-integrated/32824201295.html) | €5.70/$7.00 |
+  | GPS | GPS NEO-6 Serial 3.3v | [Link](http://s.click.aliexpress.com/e/RJiMbey) | €3.74/$0 |
 
   ## RFID
   | Item Name | Item Description | Item link | Price |
