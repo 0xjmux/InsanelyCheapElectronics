@@ -81,10 +81,12 @@ Feel free add to it by making a PR.<br />
 # Starter Kits
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
-| Keyestudio Learning Kit | A microcontroller starter kit. | [Link](https://www.aliexpress.com/item/Keyestudio-Updated-Maker-learning-kit-Starter-kit-for-arduinos-starter-kit-User-Manual-UNOR3-1602LCD-servo/32835924034.html?)  |     €36.12/$45.00    |
-| Arduino Uno Starter Kit | This starter kit has LOTS of stuff and seems to be the best on AliExpress | [Link](https://www.aliexpress.com/item/Starter-Kit-for-arduino-Uno-R3-Uno-R3-Breadboard-and-holder-Step-Motor-Servo-1602-LCD/32808532691.html?)  |     €28.33/$35.30    |
-| Arduino Starter Kit | A starter kit for arduino uno micro controller. | [Link](https://www.aliexpress.com/item/Arduino-Starter-Kit-for-arduino-Uno-R3-9G-Server-arduino-sensor-1602-LCD-jumper-Wire-UNO/32808269674.html?)  |     €21.34/$26.59    |
-| Extra Component Case | A cheap package with some extra components. | [Link](https://www.aliexpress.com/item/Starter-Kit-for-Arduino-Resistor-LED-Capacitor-Jumper-Wires-Breadboard-resistor-Kit-with-Retail-Box/32774046149.html?)  |     €6.25/$7.79    |
+| Keyestudio Learning Kit | A microcontroller starter kit. | [Link](http://s.click.aliexpress.com/e/iqja6YZ)  |     €36.12/$45.00    |
+| Arduino Uno Starter Kit | This starter kit has LOTS of stuff and seems to be the best on AliExpress | [Link](
+http://s.click.aliexpress.com/e/YzjMRvb)  |     €28.33/$35.30    |
+| Arduino Starter Kit | A starter kit for arduino uno micro controller. | [Link](http://s.click.aliexpress.com/e/aQjyrVf)  |     €21.34/$26.59    |
+| Extra Component Case | A cheap package with some extra components. | [Link](
+http://s.click.aliexpress.com/e/U7AYBAI)  |     €6.25/$7.79    |
 
 # Arduinos
   ## Arduino Compatibles
@@ -93,7 +95,8 @@ Feel free add to it by making a PR.<br />
   | Arduino Pro Micro 5V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/Free-Shipping-New-Pro-Micro-for-arduino-ATmega32U4-5V-16MHz-Module-with-2-row-pin-header/2021979132.html)  |     €3.47/$4.27    |
   | Arduino Pro Micro 3.3V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/2pcs-Leonardo-Pro-Micro-ATmega32U4-16MHz-3-3V-Replace-ATmega328-Pro-Mini/32661332411.html)  |     €5.28/$6.49 + Delivery |
   | Arduino Nano  | For the Ethernet shield  | [Link](http://s.click.aliexpress.com/e/miYV7yJ)  |     €2.22/$2.75    |
-  | Digispark  | Small arduino like platform, keyboard injection capable  | [Link](https://www.aliexpress.com/item/1pcs-Digispark-kickstarter-development-board-ATTINY85-module-for-Arduino-usb/32837195109.html)  |     €1.23/$1.53 + Delivery |
+  | Digispark  | Small arduino like platform, keyboard injection capable  | [Link](
+http://s.click.aliexpress.com/e/72Vbea6)  |     €1.23/$1.53 + Delivery |
 
   ## Shields
   | Item Name | Item Description | Item link | Price |
@@ -116,7 +119,7 @@ Feel free add to it by making a PR.<br />
   | NodeMCU  | Look at @Spacehuhn's deauther project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
   | NodeMCU-07 | Modified NodeMCU with ESP-07 and LiPo charger | [Link](http://s.click.aliexpress.com/e/VbIa6qJ) |     €8.13/$10.13 + Delivery   |
   | Wemos D1 Mini | A great quality D1 Mini on Ebay | [Link](https://www.ebay.com/itm/D1-Mini-NodeMcu-4M-bytes-Lua-WIFI-Development-Board-ESP8266-by-WeMos/182035363514) |      €2.69/$3.29 + Delivery   |
-  | WiFi Deauther | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](https://www.aliexpress.com/item/WiFi-deauther-V3-ESP8266-ESP-07-with-2dBi-antenna-Powerbank-Flashlight-2A-Input-2A-output-wireless/32838970615.html) |     €12.19/$15.19 + Delivery    |
+  | WiFi Deauther | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](http://s.click.aliexpress.com/e/qf6iUNV) |     €12.19/$15.19 + Delivery    |
   | WiFi Deauther OLED | ESP8266 + antenna + 18650 connector + OLED + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](http://s.click.aliexpress.com/e/iY7uvRv) |     €24.37/$30.37 + Delivery    |
   | PacketMonitor | ESP8266 + antenna + 1.3" OLED + preflashed [PacketMonitor](https://github.com/spacehuhn/PacketMonitor) software | [Link](http://s.click.aliexpress.com/e/Zv37MBu) |     €10.56/$13.16 + Delivery     |
   | PacketMonitor32 | ESP32 WROVER + 1.3" OLED + SD card support + preflashed [PacketMonitor32](https://github.com/spacehuhn/PacketMonitor32) software | [Link](http://s.click.aliexpress.com/e/mE2RJma) |     €15.44/$19.24  + Delivery   |
@@ -157,7 +160,7 @@ Feel free add to it by making a PR.<br />
   | ------------- | ------------- | ------------- | -------------|
   | Mushroom Switch  | Big Red button for your big red button needs  | [Link](http://s.click.aliexpress.com/e/R7iEujm)  |     €3.49/$4.30    |
   | Key Switch  | Key switch for when you need to lock that circut  | [Link](https://www.aliexpress.com/item/Key-Switch-ON-OFF-Lock-Switch-KS-01/32490689557.html)  |     €1.01/$1.24    |
-  | Simple Toggle  | Just a basic toggle.   | [Link](https://www.aliexpress.com/item/Promotion-5-Pcs-AC-ON-OFF-SPDT-2-Position-Latching-Toggle-Switch-6A-125V/32813324272.html?spm=2114)  |     €0.77/$0.95    |
+  | Simple Toggle  | Just a basic toggle.   | [Link](http://s.click.aliexpress.com/e/RBi2NJm)  |     €0.77/$0.95    |
 
   ## Relays
   | Item Name | Item Description | Item link | Price |
@@ -177,7 +180,7 @@ Feel free add to it by making a PR.<br />
   ## LCD's
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  |   |  | [Link]()  |     €0/$0   |
+  | 16x2 LCD | Cheap, good for Arduino and Raspberry Pi | [Link](https://www.aliexpress.com/item/1pcs-lot-New-1602-16x2-Character-LCD-Display-Module-HD44780-Controller-blue-blacklight-IN-STOCK/32328960211.html)  |     €0/$1.5   |
 
   ## LED's
   | Item Name | Item Description | Item link | Price |
@@ -220,6 +223,8 @@ Feel free add to it by making a PR.<br />
   | USB connector | USB male A 10 pcs | [Link](http://s.click.aliexpress.com/e/QzzVrbu) | €1.17/$0 |
   | USB connector | USB female A 10 pcs | [Link](http://s.click.aliexpress.com/e/YJube2Z) | €1.24/$0 |
   | DuPont Headers | Dupont Headers for projects| [Link](https://www.aliexpress.com/item/310Pcs-2-54mm-Male-Female-Dupont-Wire-Jumper-And-Header-Connector-Housing-Kit/32811413904.html) | €3.38/$0 |
+  | RJ45 Ethernet sockets | They're ethernet sockets. There's 20 of them. | [Link](http://s.click.aliexpress.com/e/aaeMB2B
+)  | €0/$3 |
 
   ## Cables & Wires
   | Item Name | Item Description | Item link | Price |
@@ -243,8 +248,8 @@ Feel free add to it by making a PR.<br />
   | Item Name | Item Description | Item link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | Rotary Knob for Potentiometer | Knob that you can add to a potientometer | [Link](https://www.aliexpress.com/item/10PCS-16mm-Rotary-Control-Turning-Knob-for-Hole-6mm-Dia-Shaft-Potentiometer-360-Degree-100-New/32673668441.html)  |     €0/$1.85   |
-  | Double sided perf board | For when you want to make a project more permanent | [Link](https://www.aliexpress.com/item/B1304-Free-shipping-10pcs-Double-Side-Prototype-PCB-diy-Universal-Printed-Circuit-Board-4x6cm/32351802217.html)  |     €0/$2.47   |
-  | Portable Cable organizer | large cable organizer for bringing with you on the go | [Link](https://www.aliexpress.com/item/2016-Portable-Nylon-Waterproof-Storage-Organizer-Bag-Shockproof-Earphone-Digital-USB-Cable-Sorting-Travel-Insert-Bags/32666314969.html)  |     €0/$3   |
+  | Double sided perf board | For when you want to make a project more permanent | [Link](http://s.click.aliexpress.com/e/BUrFeaY)  |     €0/$2.47   |
+  | Portable Cable organizer | large cable organizer for bringing with you on the go | [Link](http://s.click.aliexpress.com/e/3F6aYzZ)  |     €0/$3   |
   |   |  | [Link]()  |     €0/$0   |
 
   ## Handy Adapters & Cables
@@ -305,7 +310,7 @@ Feel free add to it by making a PR.<br />
   | ------------- | ------------- | ------------- | -------------|
   | Crimptool  | Dupont crimptool  | [Link](http://s.click.aliexpress.com/e/V7Q3beM)  |     €3.91/$0    |
   | Tweezers  | 6pcs Metal Anti-static Tweezers  | [Link](http://s.click.aliexpress.com/e/JEYJ6AM)  |     €1.95/$0    |
-  | Wire Cable cutters | for working on pcbs and wiring | [Link](https://www.aliexpress.com/item/P00337-Electrical-Wire-Cable-Cutters-Cutting-Side-Snips-Flush-Pliers-Nipper-Hand-Tools-Herramientas/32686834481.html)  |     €0/$1.76   |
+  | Wire Cable cutters | for working on pcbs and wiring | [Link](http://s.click.aliexpress.com/e/FEQbmqf)  |     €0/$1.76   |
 
   ## Programmers
   | Item Name | Item Description | Item link | Price |
@@ -399,7 +404,8 @@ Feel free add to it by making a PR.<br />
   | ------------- | ------------- | ------------- | -------------|
   | GPS Antenna  | GPS Antenna for RTL-SDR or Arduino board | [Link](http://s.click.aliexpress.com/e/baqNN37)  |     €0/$8    |
   | GPS | GPS NEO-6 Serial 3.3v | [Link](http://s.click.aliexpress.com/e/RJiMbey) | €3.74/$0 |
-  | GPS | GPS NEO-m8n | [link](https://www.aliexpress.com/item/UAV-Ublox-Neo-M8N-chip-UART-Smart-GPS-module-gnss-antenna-dual-GLONASS-receiver-integrated/32824201295.html) | €5.71/$7.00 |
+  | GPS | GPS NEO-m8n | [link](http://s.click.aliexpress.com/e/7YF6IiY
+) | €5.71/$7.00 |
 
   ## RFID
   | Item Name | Item Description | Item link | Price |
@@ -416,4 +422,4 @@ Feel free add to it by making a PR.<br />
 
 
 <!--This is a template for adding extra cells. Ignore it. 
-| Content Cell  | Content Cell  | [Link]()  |     €0/$0    |-->
+|  |  | [Link]()  | €0/$0 |-->
