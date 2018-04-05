@@ -395,6 +395,7 @@ Feel free add to it by making a PR.<br />
   | ------------- | ------------- | ------------- | -------------|
   | GPS Antenna  | GPS Antenna for RTL-SDR or Arduino board | [Link](http://s.click.aliexpress.com/e/baqNN37)  |     €0/$8    |
   | GPS | GPS NEO-6 Serial 3.3v | [Link](http://s.click.aliexpress.com/e/RJiMbey) | €3.74/$0 |
+  | GPS | GPS NEO-m8n | [link](https://www.aliexpress.com/item/UAV-Ublox-Neo-M8N-chip-UART-Smart-GPS-module-gnss-antenna-dual-GLONASS-receiver-integrated/32824201295.html) | €5.71/$7.00 |
 
   ## RFID
   | Item Name | Item Description | Item link | Price |
