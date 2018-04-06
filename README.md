@@ -85,8 +85,7 @@ Feel free add to it by making a PR.<br />
 | Arduino Uno Starter Kit | This starter kit has LOTS of stuff and seems to be the best on AliExpress | [Link](
 http://s.click.aliexpress.com/e/YzjMRvb)  |     €28.33/$35.30    |
 | Arduino Starter Kit | A starter kit for arduino uno micro controller. | [Link](http://s.click.aliexpress.com/e/aQjyrVf)  |     €21.34/$26.59    |
-| Extra Component Case | A cheap package with some extra components. | [Link](
-http://s.click.aliexpress.com/e/U7AYBAI)  |     €6.25/$7.79    |
+| Extra Component Case | A cheap package with some extra components. | [Link](http://s.click.aliexpress.com/e/U7AYBAI)  |     €6.25/$7.79    |
 
 # Arduinos
   ## Arduino Compatibles
@@ -223,8 +222,7 @@ http://s.click.aliexpress.com/e/72Vbea6)  |     €1.23/$1.53 + Delivery |
   | USB connector | USB male A 10 pcs | [Link](http://s.click.aliexpress.com/e/QzzVrbu) | €1.17/$0 |
   | USB connector | USB female A 10 pcs | [Link](http://s.click.aliexpress.com/e/YJube2Z) | €1.24/$0 |
   | DuPont Headers | Dupont Headers for projects| [Link](https://www.aliexpress.com/item/310Pcs-2-54mm-Male-Female-Dupont-Wire-Jumper-And-Header-Connector-Housing-Kit/32811413904.html) | €3.38/$0 |
-  | RJ45 Ethernet sockets | They're ethernet sockets. There's 20 of them. | [Link](http://s.click.aliexpress.com/e/aaeMB2B
-)  | €0/$3 |
+  | RJ45 Ethernet sockets | They're ethernet sockets. There's 20 of them. | [Link](http://s.click.aliexpress.com/e/aaeMB2B)  | €0/$3 |
 
   ## Cables & Wires
   | Item Name | Item Description | Item link | Price |
