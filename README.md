@@ -93,8 +93,7 @@ Feel free add to it by making a PR.<br />
   | Arduino Pro Micro 5V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/Free-Shipping-New-Pro-Micro-for-arduino-ATmega32U4-5V-16MHz-Module-with-2-row-pin-header/2021979132.html)  |     €3.47/$4.27    |
   | Arduino Pro Micro 3.3V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](https://www.aliexpress.com/item/2pcs-Leonardo-Pro-Micro-ATmega32U4-16MHz-3-3V-Replace-ATmega328-Pro-Mini/32661332411.html)  |     €5.28/$6.49 + Delivery |
   | Arduino Nano  | For the Ethernet shield  | [Link](http://s.click.aliexpress.com/e/miYV7yJ)  |     €2.22/$2.75    |
-  | Digispark  | Small arduino like platform, keyboard injection capable  | [Link](
-http://s.click.aliexpress.com/e/72Vbea6)  |     €1.23/$1.53 + Delivery |
+  | Digispark  | Small arduino like platform, keyboard injection capable  | [Link](http://s.click.aliexpress.com/e/72Vbea6)  |     €1.23/$1.53 + Delivery |
 
   ## Shields
   | Item Name | Item Description | Item link | Price |
