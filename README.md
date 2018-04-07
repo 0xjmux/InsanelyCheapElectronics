@@ -82,8 +82,7 @@ Feel free add to it by making a PR.<br />
 | Item Name | Item Description | Item link | Price |
 | ------------- | ------------- | ------------- | -------------|
 | Keyestudio Learning Kit | A microcontroller starter kit. | [Link](http://s.click.aliexpress.com/e/iqja6YZ)  |     €36.12/$45.00    |
-| Arduino Uno Starter Kit | This starter kit has LOTS of stuff and seems to be the best on AliExpress | [Link](
-http://s.click.aliexpress.com/e/YzjMRvb)  |     €28.33/$35.30    |
+| Arduino Uno Starter Kit | This starter kit has LOTS of stuff and seems to be the best on AliExpress | [Link](http://s.click.aliexpress.com/e/YzjMRvb)  |     €28.33/$35.30    |
 | Arduino Starter Kit | A starter kit for arduino uno micro controller. | [Link](http://s.click.aliexpress.com/e/aQjyrVf)  |     €21.34/$26.59    |
 | Extra Component Case | A cheap package with some extra components. | [Link](http://s.click.aliexpress.com/e/U7AYBAI)  |     €6.25/$7.79    |
 
