@@ -406,7 +406,7 @@ Feel free add to it by making a PR.<br />
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | RFID  Module| RFID Module | [Link](https://www.aliexpress.com/item/Free-Shipping-RFID-module-RC522-Kits-S50-13-56-Mhz-6cm-With-Tags-SPI-Write-Read/32472685907.html) | €1.29/$0 |
-  | RFID Module  | Allows you to read RFID tags, if you can get one that works  | [Link](http://s.click.aliexpress.com/e/YbimEy7)  |     €0/$0    |
+  
 
   ## UHF / VHF & Ham Radios
   | Item Name | Item Description | Item Link | Price |
