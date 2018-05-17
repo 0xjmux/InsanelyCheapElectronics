@@ -177,7 +177,7 @@ Feel free add to it by making a PR.<br />
   ## LCD's
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | 16x2 LCD | Cheap, good for Arduino and Raspberry Pi | [Link](https://www.aliexpress.com/item/1pcs-lot-New-1602-16x2-Character-LCD-Display-Module-HD44780-Controller-blue-blacklight-IN-STOCK/32328960211.html)  |     €0/$1.5   |
+  | 16x2 LCD | Cheap, good for Arduino and Raspberry Pi | [Link](https://www.aliexpress.com/item/1pcs-lot-New-1602-16x2-Character-LCD-Display-Module-HD44780-Controller-blue-blacklight-IN-STOCK/32328960211.html)  |     €1.27/$1.5   |
 
   ## LED's
   | Item Name | Item Description | Item Link | Price |
@@ -217,10 +217,10 @@ Feel free add to it by making a PR.<br />
   ## Connectors
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | USB connector | USB male A 10 pcs | [Link](http://s.click.aliexpress.com/e/QzzVrbu) | €1.17/$0 |
-  | USB connector | USB female A 10 pcs | [Link](http://s.click.aliexpress.com/e/YJube2Z) | €1.24/$0 |
-  | DuPont Headers | Dupont Headers for projects| [Link](https://www.aliexpress.com/item/310Pcs-2-54mm-Male-Female-Dupont-Wire-Jumper-And-Header-Connector-Housing-Kit/32811413904.html) | €3.38/$0 |
-  | RJ45 Ethernet sockets | They're ethernet sockets. There's 20 of them. | [Link](http://s.click.aliexpress.com/e/aaeMB2B)  | €0/$3 |
+  | USB connector | USB male A 10 pcs | [Link](http://s.click.aliexpress.com/e/QzzVrbu) | €1.17/$1.38 |
+  | USB connector | USB female A 10 pcs | [Link](http://s.click.aliexpress.com/e/YJube2Z) | €1.24/$1.46 |
+  | DuPont Headers | Dupont Headers for projects| [Link](https://www.aliexpress.com/item/310Pcs-2-54mm-Male-Female-Dupont-Wire-Jumper-And-Header-Connector-Housing-Kit/32811413904.html) | €3.38/$3.99 |
+  | RJ45 Ethernet sockets | They're ethernet sockets. There's 20 of them. | [Link](http://s.click.aliexpress.com/e/aaeMB2B)  | €2.54/$3 |
 
   ## Cables & Wires
   | Item Name | Item Description | Item Link | Price |
@@ -230,12 +230,12 @@ Feel free add to it by making a PR.<br />
   ## Power Modules, Boost Converters & PSU'S 
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Step down 3A Voltage Regulator | Step Down Voltage Regulator| [Link](http://s.click.aliexpress.com/e/J6ufe2v) | €3.25/$0 |
-  | DC-DC Step-down converter | DC-DC Step-down converter 5 pcs | [Link](http://s.click.aliexpress.com/e/7eamaqF) | €2.88/$0 |
-  | Step Up Converter | Boost Converter 3 pcs | [Link](http://s.click.aliexpress.com/e/BEmayRj) | €2.83/$0 |
-  | High Voltage Boost Converter | HV Boost Converter | [Link](https://www.aliexpress.com/item/NCH6100HV-High-Voltage-DC-Power-Supply-Module-For-Nixie-Tube-Glow-Tube-Magic-Eye-DC-12V/32834903717.html) | €7.71/$0 |
-  | Step Up/Step Down Converter | Step Up/Step Down Converter | [Link](http://s.click.aliexpress.com/e/yrfiqzn) | €2.39/$0 |
-  | DC-DC Step Up/Step Down Converter | Step Up/Step Down Converter | [Link](http://s.click.aliexpress.com/e/IYnmAMb) | €1.16/$0 |
+  | Step down 3A Voltage Regulator | Step Down Voltage Regulator| [Link](http://s.click.aliexpress.com/e/J6ufe2v) | €3.25/$3.83 |
+  | DC-DC Step-down converter | DC-DC Step-down converter 5 pcs | [Link](http://s.click.aliexpress.com/e/7eamaqF) | €2.88/$3.40 |
+  | Step Up Converter | Boost Converter 3 pcs | [Link](http://s.click.aliexpress.com/e/BEmayRj) | €2.83/$3.34 |
+  | High Voltage Boost Converter | HV Boost Converter | [Link](https://www.aliexpress.com/item/NCH6100HV-High-Voltage-DC-Power-Supply-Module-For-Nixie-Tube-Glow-Tube-Magic-Eye-DC-12V/32834903717.html) | €7.71/$9.09 |
+  | Step Up/Step Down Converter | Step Up/Step Down Converter | [Link](http://s.click.aliexpress.com/e/yrfiqzn) | €2.39/$2.82 |
+  | DC-DC Step Up/Step Down Converter | Step Up/Step Down Converter | [Link](http://s.click.aliexpress.com/e/IYnmAMb) | €1.16/$1.37 |
   | USB test load | 15w USB test load | [Link](http://s.click.aliexpress.com/e/NNfMjYN) | €3.84/$0 |
   | 3 USB Charging Module | 3 USB Charging Module | [Link](https://www.aliexpress.com/item/3-USB-Mini-Charging-Module-DC-DC-9V-12V-To-5V-8A-Step-Down-Power-Charger/32803562328.html) | €1.64/$0 |
   | 3.3V DC Stepdown | 3.3v DC Stepdown | [Link](http://s.click.aliexpress.com/e/Un2NJQ3) | €0.19/$0 |
