@@ -3,7 +3,7 @@
 This repo is a work in progress. Me and a bunch of my discord friends on [Spacehuhn's discord server](https://discordapp.com/invite/7Ay378G) all like to purchase cheap electronics from China for projects, so we figured it'd be good to make a list of stuff that we have bought for those that are just starting out and want ideas/parts for projects.<br />
 All prices in Euro and USD.<br />
 
-###### Full Disclosure: Many of the links in the list are affiliate links, but since it is ali and prices are low we make next to nothing. We don't choose products based on what has an affiliate link availible; everything is picked based on quality, ratings, and our own experiences, and affiliate links are added later if they're availible for that listing. 
+###### Full Disclosure: Many of the links in the list are affiliate links, but since it is ali and prices are low we make next to nothing. We don't choose products based on what has an affiliate link available; everything is picked based on quality, ratings, and our own experiences, and affiliate links are added later if they're availible for that listing. 
 
 Feel free add to it by making a PR.<br />
 #### Contributing Rules:
@@ -38,6 +38,7 @@ Feel free add to it by making a PR.<br />
     - [Other Addons](#Other-Addons)
   - [General Electronics](#general-electronics)
     - [Switches](#switches--buttons)  
+    - [Switch Accessories](#Switch-Accessories)
     - [Relays](#relays)  
     - [Microcontrollers](#microcontrollers)  
     - [Lasers](#lasers)  
@@ -49,7 +50,8 @@ Feel free add to it by making a PR.<br />
     - [Sensors](#sensors)  
     - [Connectors](#connectors)  
     - [Cables & Wires](#cables--wires)  
-    - [Power Modules, Boost Converters & PSU'S](#power-modules-boost-converters--psus)  
+    - [Power Modules, Boost Converters & PSU'S](#power-modules-boost-converters--psus)
+    - [Soldering Practice Kits](#Soldering-Practice-Kits)  
     - [Other Components](#other-components)
     - [Handy Adapters & Cables](#handy-adapters--cables)
     - [Other Electronics](#other-electronics)
@@ -116,21 +118,18 @@ Feel free add to it by making a PR.<br />
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | NodeMCU  | Look at @Spacehuhn's deauther project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
-  | DSTIKE Deauth Detector | Deauther USB device that alerts you when a wifi deauthentication attack is detected | [Link](http://s.click.aliexpress.com/e/TmqJ2co) |     €/$10 + Delivery   |
-  |   |  | [Link]()  |     €0/$0   |
-  |   |  | [Link]()  |     €0/$0   |
+  | DSTIKE Deauth Detector | Deauther USB device that alerts you when a wifi deauthentication attack is detected | [Link](http://s.click.aliexpress.com/e/TmqJ2co) |     €/$10 + Delivery  | 
   | WiFi Deauther Monster | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software with all program features | [Link](http://s.click.aliexpress.com/e/qf6iUNV) |     €12.19/$15.19 + Delivery    |
   | WiFi Deauther OLED | ESP8266 + antenna + 18650 connector + OLED + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](http://s.click.aliexpress.com/e/iY7uvRv) |     €24.37/$30.37 + Delivery    |
   |
-  | WiFi deauther mini | Deauther with screen, controls, LED and ipx connector for external antenna | [Link](http://s.click.aliexpress.com/e/mE2RJma) |     €/$12  + Delivery   |
+  | WiFi deauther mini | Deauther with screen, controls, LED and IPX connector for external antenna | [Link](http://s.click.aliexpress.com/e/mE2RJma) |     €/$12  + Delivery   |
   | WiFi Deauther Wristband | The deauther in watch form | [Link](http://s.click.aliexpress.com/e/s64nBBS)  |     €0/$33   |
 
     
   ## Wifi Adapters
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Usb WiFi Adapter  | Small USB adapter for wifi, injection cabable (depending on the one you get)| [Link](http://s.click.aliexpress.com/e/r6UDeuo)  |     €1.47/$2.50   |
- 
+  | Usb WiFi Adapter  | Small USB adapter for wifi, injection capable (depending on the one you get)| [Link](http://s.click.aliexpress.com/e/r6UDeuo)  |     €1.47/$2.50   |
   | USB WiFi Adapter | USB WiFi RT5370 RaLink Non-detachable | [Link](http://s.click.aliexpress.com/e/gZtQA40) | €2.60/$3.37 |
   
   ## Wifi Antennas
@@ -168,22 +167,58 @@ Feel free add to it by making a PR.<br />
    ## Other-Addons
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Pi GPIO Extension/Cascade Board | Allows pinout with RPi GPIO and Weidmuller connetors | [Link](http://s.click.aliexpress.com/e/cDh4QuTA)  |     €0/$4.11   |
+  | Pi GPIO Extension/Cascade Board | Allows pinout with RPi GPIO and Weidmuller connectors | [Link](http://s.click.aliexpress.com/e/cDh4QuTA)  |     €0/$4.11   |
   | RPi GPIO Ribbon Cable Breakout | Allows transfer of all RPi GPIO pins to a breadboard | [Link](http://s.click.aliexpress.com/e/cHKeGZ4y)  |     €0/$3.05   |
 
 
 # General Electronics
+
   ## Switches & Buttons  
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | Mushroom Switch  | Big Red button for your big red button needs  | [Link](http://s.click.aliexpress.com/e/R7iEujm)  |     €3.49/$4.30    |
+  | Standalone Red E Stop button | Just a mushroom button, no case | [Link](http://s.click.aliexpress.com/e/tGkDHes)  |     €0/$1.38   |
   | Mushroom Key Switch  | Mushroom button with key  | [Link](http://s.click.aliexpress.com/e/biQOSK92)  |     €1.01/$1.24    |
   | Simple Toggle  | Just a basic toggle.   | [Link](http://s.click.aliexpress.com/e/RBi2NJm)  |     €0.77/$0.95    |
+  | Momentary Pushbutton | 10pcs 12mm colored pushbutton | [Link](http://s.click.aliexpress.com/e/bkwdPmlS)  |     €0/$1.36   |
+  | Large illuminated rocker switch | They come in different colors and have a satisfying click | [Link](http://s.click.aliexpress.com/e/cqG9KBms)  |     €0/$0.68 + shipping   |
+  | Metal Locking Power LED Pushbutton | illuminates with selected voltage, and has power icon on switch (sidenote: whenever you buy a switch like this, get the optional connection socket. You'll thank yourself later) | [Link](http://s.click.aliexpress.com/e/AvkMofI)  |     €0/$0.90   |  
+  | Metal Locking LED Pushbutton | Same as above item, but without the power symbol on the button | [Link](http://s.click.aliexpress.com/e/cEVgMEjq)  |     €0/$0.90   |
+  | Rectangular Rocker Switch | 10pcs, Comes in Red and Black  | [Link](http://s.click.aliexpress.com/e/XlatDOu)  |     €0/$1.15   |
+  | Round Rocker Switch | 10pcs, Comes in Red and Black | [Link](http://s.click.aliexpress.com/e/cFshfxsc)  |     €0/$1.65   |
+  | Micro Slide Switch | 50pcs - Very cheap slide switch, great for implanting in projects | [Link](http://s.click.aliexpress.com/e/bgV5dTxw)  |     €0/$1.65   |
+  | DIP Slide Switch | 10pcs Used to select settings, are compact and resilient | [Link](http://s.click.aliexpress.com/e/bLfddAMo)  |     €0/$01.26  |
+  | 25 Types assorted micro push button | Allows you to test out various switch types for projects | [Link](https://www.aliexpress.com/item/32847323765.html?spm=a2g0s.8937460.0.0.54bf2e0epNlIhm)  |     €0/$4.70   |
+  | 10pcs Micro Limit Switch | Good for using as an input for robots/projects that require feedback | [Link](http://s.click.aliexpress.com/e/b4uWdbte)  |     €0/$2.64   |
+  | 10pcs Mini Micro Limit Switch | Smaller version of above limit switch with roller | [Link](http://s.click.aliexpress.com/e/rhj491I)  |     €0/$1.19   |
+  | Large Metal momentary push button | 3 pin, with either red or green color | [Link](http://s.click.aliexpress.com/e/p7cUnX6)  |     €0/$0.90   |
+  | 3 Position Metal Rotary Switch | Also has different color LEDs | [Link](http://s.click.aliexpress.com/e/EZLF4BO)  |     €0/$0.71 + shipping   |
+  | Arcade Style Push Buttons | Various colors, 28mm | [Link](https://www.aliexpress.com/item/32883348042.html?spm=a2g0s.8937460.0.0.72be2e0ejSPcfX)  |     €0/$1.10   |
+  | 5pcs Square Momentary Push Button | It's a button | [Link](http://s.click.aliexpress.com/e/cHyscIFI)  |     €0/$1.01   |
+  | Covered toggle Switch | These light up, and are super sweet | [Link](http://s.click.aliexpress.com/e/cBiRNTwu)  |     €0/$1.55   |
+  | Rectangular Rocker Switches with Waterproof cover | Black switches with transparent cover, 5pcs | [Link](http://s.click.aliexpress.com/e/bK5uT0NE)  |     €0/$1.20   |
+  | Momentary Foot Pedal Switch | IDK what this is for, but it's cool | [Link](http://s.click.aliexpress.com/e/bgpOADNO)  |     €0/$1.81   |
+  | 200pcs Tactile push button switch kit | varying stem height, from 4.3mm - 13mm | [Link](http://s.click.aliexpress.com/e/byESkTYM)  |     €0/$3.79   |
+  | 100pcs Tactile Pushbutton with Covers | Varying Covers, 12x12mm pushbutton | [Link](http://s.click.aliexpress.com/e/JB93Nb2)  |     €0/$6.78   |
+  |   |  | [Link]()  |     €0/$0   |
+ 
+  ##Switch-Accessories
+  | Item Name | Item Description | Item Link | Price |
+  | ------------- | ------------- | ------------- | -------------|
+  | Tactile Pushbutton switch cover | Makes tactile switches easier to use | [Link](https://www.aliexpress.com/item/32888964798.html?spm=a2g0s.8937460.0.0.5f6e2e0esb6BOo)  |     €0/$1.12   |
+  | Metal Potentiometer Control Knobs | 10pcs, add the finishing touch to a project with pots | [Link](http://s.click.aliexpress.com/e/bQGg1JPa)  |     €0/$0.82  |
+  | 30pcs Potentiometer Knobs | Plastic, these work well and are very cheap | [Link](http://s.click.aliexpress.com/e/z200yBI)  |     €0/$1.51   |
+  | 5pcs aluminum Potentiometer Knobs | These are larger and have a nice finish  | [Link](http://s.click.aliexpress.com/e/9i2jrOg)  |     €0/$2.50   |
 
+
+
+ 
   ## Relays
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | 5V Relay  | Connnect this to projects with a higher voltage   | [Link](http://s.click.aliexpress.com/e/5XUi0Ms)  |     €0.43/$0.53    |
+  | 5V Relay  | Connect this to projects with a higher voltage   | [Link](http://s.click.aliexpress.com/e/5XUi0Ms)  |     €0.43/$0.53    |
+  | 5V Multichannel relays  | Allow you to control more than one thing at once, have 2, 4, and 8 channel options | [Link](http://s.click.aliexpress.com/e/jJY55Ws)  |     €0/$1.48   |
+
 
   ## Microcontrollers
   | Item Name | Item Description | Item Link | Price |
@@ -193,7 +228,7 @@ Feel free add to it by making a PR.<br />
   ## Lasers
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  |   |  | [Link]()  |     €0/$0   |
+  | 10pcs Red Laser Diodes | 5V 5mW | [Link](http://s.click.aliexpress.com/e/bf3077Io)  |     €0/$1.48   |
 
   ## Displays
   | Item Name | Item Description | Item Link | Price |
@@ -247,7 +282,7 @@ Feel free add to it by making a PR.<br />
   ## Cables & Wires
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  |   |  | [Link]()  |     €0/$0   |
+  | Wago Type Lever Nuts | 54pcs, allow you to make wire connections quickly and without a breadboard/soldering | [Link](http://s.click.aliexpress.com/e/cAyduJHq)  |     €0/$14.40   |
 
   ## Power Modules, Boost Converters & PSU'S 
   | Item Name | Item Description | Item Link | Price |
@@ -261,6 +296,25 @@ Feel free add to it by making a PR.<br />
   | USB test load | 15w USB test load | [Link](http://s.click.aliexpress.com/e/NNfMjYN) | €3.84/$0 |
   | 3 USB Charging Module | 3 USB Charging Module | [Link](http://s.click.aliexpress.com/e/bMgGxLQs) | €1.64/$0 |
   | 3.3V DC Stepdown | 3.3v DC Stepdown | [Link](http://s.click.aliexpress.com/e/Un2NJQ3) | €0.19/$0 |
+
+
+  ## Soldering Practice Kits
+  | Item Name | Item Description | Item Link | Price |
+  | ------------- | ------------- | ------------- | -------------|
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+
+
+
+
 
   ## Other Components
   | Item Name | Item Description | Item Link | Price |
