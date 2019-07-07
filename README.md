@@ -34,13 +34,14 @@ Feel free add to it by making a PR.<br />
   - [SBC's / Raspberry Pi related](#sbcs--raspberry-pi-related)
     - [SBC's](#sbcs)
     - [Cases](#cases)
-     -[Hats](#hats)
+    - [Hats](#hats)
+    - [Other Addons](#Other-Addons)
   - [General Electronics](#general-electronics)
     - [Switches](#switches--buttons)  
     - [Relays](#relays)  
     - [Microcontrollers](#microcontrollers)  
     - [Lasers](#lasers)  
-    - [LCD's](#lcds)  
+    - [Displays](#displays)  
     - [LED's](#leds)  
     - [Passives & Kits / Sets](#passives--kits--sets)  
     - [IC's](#ics)  
@@ -94,7 +95,7 @@ Feel free add to it by making a PR.<br />
   | Arduino Pro Micro 5V  | Small arduino with HID injection capabilities, can be used as makeshift rubber ducky | [Link](http://s.click.aliexpress.com/e/bVA2rxsk)  |     €3.47/$4.27    |
   | Arduino Pro Micro 3.3V  | Small arduino with HID injection capabilities, 3.3v so need voltage level shifter for USB | [Link](http://s.click.aliexpress.com/e/40djOfO)  |     €5.28/$6.49 + Delivery |
   | Arduino Nano  | For the Ethernet shield  | [Link](http://s.click.aliexpress.com/e/miYV7yJ)  |     €2.22/$2.75    |
-  | Digispark  | Small arduino like platform, keyboard injection capable  | [Link](http://s.click.aliexpress.com/e/72Vbea6)  |     €1.23/$1.53 + Delivery |
+  | Digispark  | Small arduino like platform, keyboard injection capable but requires driver installation | [Link](http://s.click.aliexpress.com/e/72Vbea6)  |     €1.23/$1.53 + Delivery |
 
   ## Shields
   | Item Name | Item Description | Item Link | Price |
@@ -104,30 +105,33 @@ Feel free add to it by making a PR.<br />
 
 # WiFi / ESP8266
 
-  ## Deauther 2.0
+  ## ESP Modules (Arduino compatible wifi modules)
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | NodeMCU  | The main board that everything runs on (you only need this to run deauther 2.0), the rest of the stuff is just add-ons  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
-  | OLED Display |For if you want to add a display to the deauther (.96 inch) | [Link](http://s.click.aliexpress.com/e/rbIIYZb) | $2.84 |
-  | OLED Display | To add a display to the deauther (1.3 inch) | [Link](http://s.click.aliexpress.com/e/vZVfEEY) | $3.82 |
+  | NodeMCU  | Wifi Development board for ESP8266, Deauther compatible , get the CP2102 version instead of the CH340  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
+  | Wemos D1 Mini | Another ESP, but smaller (and cheaper) | [Link](http://s.click.aliexpress.com/e/JtafqeM) |      €2.69/$3.29 + Delivery   |
 
-  ## ESP Modules
+  ## ESP8266 Deauther
+  ### Our friend @Spacehuhn, the maker of the [deauther](https://github.com/spacehuhn/esp8266_deauther) gets a small commission from everything bought from the DSTIKE store. Your purchase there helps to support the development of new cool open source projects! (These items can also all be reprogrammed for your own projects, if you so desire)
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | NodeMCU  | Look at @Spacehuhn's deauther project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
-  | NodeMCU-07 | Modified NodeMCU with ESP-07 and LiPo charger | [Link](http://s.click.aliexpress.com/e/VbIa6qJ) |     €8.13/$10.13 + Delivery   |
-  | Wemos D1 Mini | Another ESP, but smaller (and cheaper) | [Link](http://s.click.aliexpress.com/e/JtafqeM) |      €2.69/$3.29 + Delivery   |
-  | WiFi Deauther | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](http://s.click.aliexpress.com/e/qf6iUNV) |     €12.19/$15.19 + Delivery    |
+  | DSTIKE Deauth Detector | Deauther USB device that alerts you when a wifi deauthentication attack is detected | [Link](http://s.click.aliexpress.com/e/TmqJ2co) |     €/$10 + Delivery   |
+  |   |  | [Link]()  |     €0/$0   |
+  |   |  | [Link]()  |     €0/$0   |
+  | WiFi Deauther Monster | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software with all program features | [Link](http://s.click.aliexpress.com/e/qf6iUNV) |     €12.19/$15.19 + Delivery    |
   | WiFi Deauther OLED | ESP8266 + antenna + 18650 connector + OLED + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](http://s.click.aliexpress.com/e/iY7uvRv) |     €24.37/$30.37 + Delivery    |
-  | PacketMonitor | ESP8266 + antenna + 1.3" OLED + preflashed [PacketMonitor](https://github.com/spacehuhn/PacketMonitor) software | [Link](http://s.click.aliexpress.com/e/Zv37MBu) |     €10.56/$13.16 + Delivery     |
-  | PacketMonitor32 | ESP32 WROVER + 1.3" OLED + SD card support + preflashed [PacketMonitor32](https://github.com/spacehuhn/PacketMonitor32) software | [Link](http://s.click.aliexpress.com/e/mE2RJma) |     €15.44/$19.24  + Delivery   |
+  |
+  | WiFi deauther mini | Deauther with screen, controls, LED and ipx connector for external antenna | [Link](http://s.click.aliexpress.com/e/mE2RJma) |     €/$12  + Delivery   |
+  | WiFi Deauther Wristband | The deauther in watch form | [Link](http://s.click.aliexpress.com/e/s64nBBS)  |     €0/$33   |
+
     
   ## Wifi Adapters
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Usb WiFi Adapter  | Small USB adapter for wifi, injection cabable (depending on the one you get)| [Link](http://s.click.aliexpress.com/e/r6UDeuo)  |     €1.47/$1.83    |
-  | USB WiFi Adapter | USB WiFi RT5370 RaLink, with SMA detachable | [Link](http://s.click.aliexpress.com/e/c1JRCaou) | €2.29/$0 |
-  | USB WiFi Adapter | USB WiFi RT5370 RaLink Non-detachable | [Link](http://s.click.aliexpress.com/e/gZtQA40) | €2.60/$0 |
+  | Usb WiFi Adapter  | Small USB adapter for wifi, injection cabable (depending on the one you get)| [Link](http://s.click.aliexpress.com/e/r6UDeuo)  |     €1.47/$2.50   |
+ 
+  | USB WiFi Adapter | USB WiFi RT5370 RaLink Non-detachable | [Link](http://s.click.aliexpress.com/e/gZtQA40) | €2.60/$3.37 |
   
   ## Wifi Antennas
   | Item Name | Item Description | Item Link | Price |
@@ -144,12 +148,28 @@ Feel free add to it by making a PR.<br />
   ## Cases
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  | Raspberry Pi 3 Case  | Case for Pi 3. Self explanatory | [Link](http://s.click.aliexpress.com/e/y3rzJmY)  |     €1.34/$1.67    |
+  | Clear Raspberry Pi 3 Case  | Clear plastic case with gpio access | [Link](http://s.click.aliexpress.com/e/y3rzJmY)  |     €1.34/$1.67    |
+  | Protective Black Plastic Case Pi 3 | Black case with fan and heatsink | [Link](http://s.click.aliexpress.com/e/dsJfsRO)  |     €0/$3.89   |
+  | "Official" looking case | ABS plastic with heatsink | [Link](http://s.click.aliexpress.com/e/K93XJ8M)  |     €0/$2.21  |
+  | Pi 3 Layered case | Case with heatsink and cooling fan | [Link](http://s.click.aliexpress.com/e/qdMFYTq)  |     €0/$5   |
+  | Aluminum Case for Pi 3 | can also include fan and heatsink | [Link](http://s.click.aliexpress.com/e/bafDttag)  |     €0/$6.22   |
+  |  Pi 3 Layered Case | Transparent Case for stack of 6-11 Pis | [Link](http://s.click.aliexpress.com/e/BorHKCs)  |     €0/$14.5   |
+  | Pi 3 TFT LCD Screen Case | Clear case with touch screen on top | [Link](http://s.click.aliexpress.com/e/AzuZ9io)  |     €0/$13.80   |
+  | Pi 3 Aluminum Heatsink Case | Includes dual fans, case acts as heatsink | [Link](http://s.click.aliexpress.com/e/cE2mugiy)  |     €0/$11.16   |
+  | Aluminum Case with Black option | May include fan and heatsink | [Link](http://s.click.aliexpress.com/e/Q8dwH7w)  |     €0/$7.86   |
 
   ## Hats
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
-  |   |  | [Link]()  |     €0/$0   |
+  | Cell Service and GPS Hat | Compatible with 4G/3G/2G/GSM/GPRS/GNSS | [Link](http://s.click.aliexpress.com/e/c9Q5CKhS)  |     €0/$64.23   |
+  | Pi E-Paper display hat | E-paper/E-ink screen with SPI Interface | [Link](http://s.click.aliexpress.com/e/bnEva7DO)  |     €0/$20.46   |
+  | Pi 0 Ethernet Hat | Adds RJ-45 and Ethernet to Pi zero | [Link](http://s.click.aliexpress.com/e/bHM2PgzE)  |     €0/$17.87   |
+
+   ## Other-Addons
+  | Item Name | Item Description | Item Link | Price |
+  | ------------- | ------------- | ------------- | -------------|
+  | Pi GPIO Extension/Cascade Board | Allows pinout with RPi GPIO and Weidmuller connetors | [Link](http://s.click.aliexpress.com/e/cDh4QuTA)  |     €0/$4.11   |
+  | RPi GPIO Ribbon Cable Breakout | Allows transfer of all RPi GPIO pins to a breadboard | [Link](http://s.click.aliexpress.com/e/cHKeGZ4y)  |     €0/$3.05   |
 
 
 # General Electronics
@@ -175,10 +195,12 @@ Feel free add to it by making a PR.<br />
   | ------------- | ------------- | ------------- | -------------|
   |   |  | [Link]()  |     €0/$0   |
 
-  ## LCD's
+  ## Displays
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | 16x2 LCD | Cheap, good for Arduino and Raspberry Pi | [Link](http://s.click.aliexpress.com/e/bFFKWuLI)  |     €1.27/$1.5   |
+  | OLED Display | Good cheap, small display. I2C Driven (.96 inch) | [Link](http://s.click.aliexpress.com/e/rbIIYZb) | $2.84 |
+  | OLED Display | Good cheap, slightly larger display, also I2C drvien (1.3 inch) | [Link](http://s.click.aliexpress.com/e/vZVfEEY) | $3.82 |
 
   ## LED's
   | Item Name | Item Description | Item Link | Price |
