@@ -114,14 +114,13 @@ Feel free add to it by making a PR.<br />
   | Wemos D1 Mini | Another ESP, but smaller (and cheaper) | [Link](http://s.click.aliexpress.com/e/JtafqeM) |      €2.69/$3.29 + Delivery   |
 
   ## ESP8266 Deauther
-  ### Our friend @Spacehuhn, the maker of the [deauther](https://github.com/spacehuhn/esp8266_deauther) gets a small commission from everything bought from the DSTIKE store. Your purchase there helps to support the development of new cool open source projects! (These items can also all be reprogrammed for your own projects, if you so desire)
+  ##### Our friend @Spacehuhn, the maker of the [deauther](https://github.com/spacehuhn/esp8266_deauther) gets a small commission from everything bought from the DSTIKE store. Your purchase there helps to support the development of new cool open source projects! (These items can also all be reprogrammed for your own projects, if you so desire)
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | NodeMCU  | Look at @Spacehuhn's deauther project  | [Link](http://s.click.aliexpress.com/e/3RvNBYF)  |     €3.04/$3.78    |
   | DSTIKE Deauth Detector | Deauther USB device that alerts you when a wifi deauthentication attack is detected | [Link](http://s.click.aliexpress.com/e/TmqJ2co) |     €/$10 + Delivery  | 
   | WiFi Deauther Monster | 18650 connector + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software with all program features | [Link](http://s.click.aliexpress.com/e/qf6iUNV) |     €12.19/$15.19 + Delivery    |
   | WiFi Deauther OLED | ESP8266 + antenna + 18650 connector + OLED + preflashed [deauther](https://github.com/spacehuhn/esp8266_deauther) software | [Link](http://s.click.aliexpress.com/e/iY7uvRv) |     €24.37/$30.37 + Delivery    |
-  |
   | WiFi deauther mini | Deauther with screen, controls, LED and IPX connector for external antenna | [Link](http://s.click.aliexpress.com/e/mE2RJma) |     €/$12  + Delivery   |
   | WiFi Deauther Wristband | The deauther in watch form | [Link](http://s.click.aliexpress.com/e/s64nBBS)  |     €0/$33   |
 
@@ -206,7 +205,7 @@ Feel free add to it by making a PR.<br />
   |   |  | [Link]()  |     €0/$0   |
 
  
-  ##Switch-Accessories
+  ## Switch-Accessories
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | Tactile Pushbutton switch cover | Makes tactile switches easier to use | [Link](https://www.aliexpress.com/item/32888964798.html?spm=a2g0s.8937460.0.0.5f6e2e0esb6BOo)  |     €0/$1.12   |
@@ -243,12 +242,9 @@ http://s.click.aliexpress.com/e/0EZFV5I)  |     €0/$3.02   |
   | OLED Display | Good cheap, small display. I2C Driven (.96 inch) | [Link](http://s.click.aliexpress.com/e/rbIIYZb) | $2.84 |
   | OLED Display | Good cheap, slightly larger display, also I2C drvien (1.3 inch) | [Link](http://s.click.aliexpress.com/e/vZVfEEY) | $3.82 |
   | 4 Digit 7 Segment Display with I2C Driver | TM1637 | [Link](http://s.click.aliexpress.com/e/cMojVO5a)  |     €0/$0.69 + Shipping  |
-  |   |  | [Link]()  |     €0/$0   |
-  |   |  | [Link]()  |     €0/$0   |
-  |   |  | [Link]()  |     €0/$0   |
 
   ## LED's
-  A small note on LED Strips - the 5V ones with WS2812B in the name are individually addressable, meaning you cam make every led in the strip a different color if you want to. The 12V ones are only one color throughout the entire strip. This is why the price for the 12V ones is always lower, since there's less complexity there. If you just want an RGB LED Strip, the regular 12V ones work just fine, and you can control them with an arduino using mosfets (see [Relays](#relays)) 
+  ##### A small note on LED Strips - the 5V ones with WS2812B in the name are individually addressable, meaning you cam make every led in the strip a different color if you want to. The 12V ones are only one color throughout the entire strip. This is why the price for the 12V ones is always lower, since there's less complexity there. If you just want an RGB LED Strip, the regular 12V ones work just fine, and you can control them with an arduino using mosfets (see [Relays](#relays)) 
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | LED | SMD LED 0603 | [Link](http://s.click.aliexpress.com/e/NNJAiII) | €1.97/$2.45 |
@@ -259,7 +255,6 @@ http://s.click.aliexpress.com/e/0EZFV5I)  |     €0/$3.02   |
   | WS2812B Individual LEDs | Daisy-chainable LEDs on individual PCBs | [Link](http://s.click.aliexpress.com/e/rKP2yfW)  |     €0/$2.37   |
   | WS2812B Individually Addressable LED Strip, with various options | Can choose from 30-144 LEDs/meter, 1-5m length, and various waterproof ratings | [Link](http://s.click.aliexpress.com/e/bEy3hKtw)  |     €0/$2.08-48   |
   | 5m 12V LED Strip with 300 LEDs |  | [Link]()  |     €0/$0   |
-  |   |  | [Link]()  |     €0/$0   |
   |   |  | [Link]()  |     €0/$0   |
 
   ## Passive Kits / Sets
@@ -295,7 +290,7 @@ http://s.click.aliexpress.com/e/0EZFV5I)  |     €0/$3.02   |
   | Magnetic Contact Sensor for Window/Door | For if you want to trigger something when a door is opened/closed | [Link](http://s.click.aliexpress.com/e/cfaiR4ic)  |     €0/$1.13   |
   | HC-SR04 Ultrasonic Distance Sensor | Measures distance, reads over I2C | [Link](https://www.aliexpress.com/item/32786781050.html?spm=a2g0s.8937460.0.0.69342e0eECEIUo)  |     €0/$0.75   |
   |   |  | [Link]()  |     €0/$0   |
-  |   |  | [Link]()  |     €0/$0   |
+
 
   ## Connectors
   | Item Name | Item Description | Item Link | Price |
@@ -330,7 +325,7 @@ http://s.click.aliexpress.com/e/0EZFV5I)  |     €0/$3.02   |
 
 
   ## Soldering Practice Kits
-  These type of kits are fantastic for people trying to get into soldering, both regular THT (through-hole) and SMD (surface mount). If you're just starting out soldering, I DO NOT recommend trying to do SMD. It requires a different set of skills, and you'll likely just get frustrated. The C51 Clock kit is one I've used personally, both to solder myself and to teach others the basics of soldering, and I highly recommend it. No matter what kit you buy, you should buy more than one, because you're likely to make a few accidents on your first one. -PwnKitteh
+  ##### These type of kits are fantastic for people trying to get into soldering, both regular THT (through-hole) and SMD (surface mount). If you're just starting out soldering, I DO NOT recommend trying to do SMD. It requires a different set of skills, and you'll likely just get frustrated. The C51 Clock kit is one I've used personally, both to solder myself and to teach others the basics of soldering, and I highly recommend it. No matter what kit you buy, you should buy more than one, because you're likely to make a few accidents on your first one. -PwnKitteh
   | Item Name | Item Description | Item Link | Price |
   | ------------- | ------------- | ------------- | -------------|
   | Water Flowing LED Kit | mixed SMD and THT | [Link](http://s.click.aliexpress.com/e/3T8OB3i)  |     €0/$0.44    |
@@ -399,8 +394,7 @@ http://s.click.aliexpress.com/e/0EZFV5I)  |     €0/$3.02   |
   | Jumper Wires  | 3 types Dupont wire 20cm | [Link](http://s.click.aliexpress.com/e/ammAuZB) | €1.95/$0 |
   | Jumper Wires | 3 types Dupont wire 10cm | [Link](http://s.click.aliexpress.com/e/uJMVBuJ) | €1.57/$0 |
   | 20pcs assorted protoboard | great for making circuits more permanent, comes in various sizes | [Link](http://s.click.aliexpress.com/e/bAaMtmzS)  |     €0/$6.57   |
-  | 10x15cm large single side perfboard | large perfboard for large projects | [Link](
-http://s.click.aliexpress.com/e/bI3MVmp)  |     €0/$1.85   |
+  | 10x15cm large single side perfboard | large perfboard for large projects | [Link](http://s.click.aliexpress.com/e/bI3MVmp)  |     €0/$1.85   |
   |   |  | [Link]()  |     €0/$0   |
   |   |  | [Link]()  |     €0/$0   |
 
